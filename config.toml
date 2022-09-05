@@ -1,4 +1,4 @@
-base_url = "https://www.sfbitcoindevs.org"
+base_url = "bostonbitdevs.org"
 compile_sass = false
 build_search_index = false
 generate_feed = true

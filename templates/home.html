@@ -1,18 +1,30 @@
-{% extends "index.html" %}
-
-{% block content %}
+{% extends "index.html" %} {% block content %}
 <p>
-  SF Bitcoin Devs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
+  We are incredibly excited to revive Boston's BitDevs meetup! It's been over
+  2.5 years since our last meetup, and we cannot wait to see you in person this
+  Thursday.
+</p>
+
+<p>
+  Boston BitDevs is a Bitcoin-focused, more technical meetup. Like all worldwide
+  BitDevs groups, we run a Socratic Seminar (learn more
+  <a href="https://bitdevs.org/about">here</a>).
+</p>
+<p>
+  If you're looking to learn about Bitcoin's latest technical developments, this
+  is the event for you! Whether you're a long-time Bitcoiner looking to
+  participate in the discussion, or a new Bitcoiner hoping to soak up technical
+  information like a sponge, all are welcome.
 </p>
 
 <h2>Socratic Seminars</h2>
 <ul class="posts">
   {% for page in section.pages %}
-    <li>
-      <time>{{ page.date | date(format="%d %b %Y") }}</time>
-      »
-      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
-    </li>
+  <li>
+    <time>{{ page.date | date(format="%d %b %Y") }}</time>
+    »
+    <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+  </li>
   {% endfor %}
 </ul>
 {% endblock content %}
