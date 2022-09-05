@@ -1,4 +1,4 @@
-# SF Bitcoin Devs
+# Boston BitDevs
 
 ## Socratic Reading List Sources
 
