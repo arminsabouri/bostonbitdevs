@@ -23,7 +23,7 @@
   <li>
     <time>{{ page.date | date(format="%d %b %Y") }}</time>
     »
-    <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    <a href="{{ page.permalink }}">{{ page.title }}</a>
   </li>
   {% endfor %}
 </ul>
