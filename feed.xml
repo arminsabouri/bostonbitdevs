@@ -7,12 +7,52 @@
 	<updated>2022-09-08T00:00:00+00:00</updated>
 	<id>https://www.bostonbitdevs.org/feed.xml</id>
 	<entry xml:lang="en">
-		<title>Socratic Seminar 1</title>
+		<title>Socratic Seminar 9</title>
 		<published>2022-09-08T00:00:00+00:00</published>
 		<updated>2022-09-08T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-1/" type="text/html"/>
-		<id>https://www.bostonbitdevs.org/socratic-1/</id>
-		<content type="html">&lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;&#x2F;h1&gt;
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-09/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-09/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping-and-welcome&quot;&gt;Housekeeping and Welcome!&lt;&#x2F;h2&gt;
+&lt;p&gt;It&#x27;s been over 2.5 years since the last Boston BitDevs meetup. We&#x27;ve got a lot of ground to make up for! &lt;&#x2F;p&gt;
+&lt;p&gt;You may be wondering where the reading lists for Socratic Seminars 1-8 are. Those can be found in the &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;boston-bitdevs&#x2F;events&#x2F;past&#x2F;&quot;&gt;Past Events&lt;&#x2F;a&gt; section of the Meetup page.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are  free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;culture&quot;&gt;Culture&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.coindesk.com&#x2F;policy&#x2F;2022&#x2F;08&#x2F;25&#x2F;pseudonymous-hodlonaut-very-confident-as-craig-wright-defamation-case-nears&#x2F;&quot;&gt;Craig Wright Defamation Case Nears&lt;&#x2F;a&gt;. Hodlonaut raises over $1.2 million in defense fund.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;np.reddit.com&#x2F;r&#x2F;Bitcoin&#x2F;comments&#x2F;ws8wfd&#x2F;starting_september_12th_in_oslo_norway_hodlonaut&#x2F;ikxqxoo&#x2F;&quot;&gt;&amp;quot;Wright&#x27;s fraud is an attack on Bitcoin&amp;quot;&lt;&#x2F;a&gt; by Greg Maxwell&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.defendingbtc.com&#x2F;&quot;&gt;defendingbtc.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-August&#x2F;020878.html&quot;&gt;Huge wallets make Bitcoin Core unusable&lt;&#x2F;a&gt; by micaroni&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;24571&quot;&gt;Stale Block Fingerprinting&lt;&#x2F;a&gt; by dergoegge&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;mempool.space launches a &lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;lightning&quot;&gt;Lightning Explorer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightningdevkit.org&#x2F;blog&#x2F;announcing-rapid-gossip-sync&#x2F;&quot;&gt;Rapid Gossip Sync&lt;&#x2F;a&gt; by Arik Sosman&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.gijsvandam.nl&#x2F;research&#x2F;&quot;&gt;Lightning Balance Discovery Attack Mitigation&lt;&#x2F;a&gt; by Gijs van Dam&lt;&#x2F;li&gt;
+&lt;li&gt;New (book on Channel Jamming Attacks and Mitigations)[https:&#x2F;&#x2F;jamming-dev.github.io&#x2F;book&#x2F;] by Antoine Riard and Gleb Naumenko&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;privacy&quot;&gt;Privacy&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;home.treasury.gov&#x2F;news&#x2F;press-releases&#x2F;jy0916&quot;&gt;Tornado Cash Sanctions&lt;&#x2F;a&gt; by the U.S. Treasury&#x27;s Office of Foreign Assets Control (OFAC)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;wallets&quot;&gt;Wallets&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-August&#x2F;020887.html&quot;&gt;Standardize Import&#x2F;Export format for wallet labels&lt;&#x2F;a&gt; by Craig Raw&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;misc&quot;&gt;Misc&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;txstats.com&#x2F;dashboard&#x2F;db&#x2F;taproot-statistics?orgId=1&quot;&gt;Taproot adoption graphs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mailmanlists.org&#x2F;pipermail&#x2F;dlc-dev&#x2F;2022-August&#x2F;000149.html&quot;&gt;Perpetual &amp;quot;announcement free&amp;quot; DLCs with BLS signatures&lt;&#x2F;a&gt; by Lloyd Fournier&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;stephenlacy&#x2F;status&#x2F;1554697077430505473&quot;&gt;Fake malicious dependencies&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;fedimint-update&#x2F;&quot;&gt;Fedimint development update&lt;&#x2F;a&gt; by Blockstream&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 </content>
 	</entry>
 </feed>
