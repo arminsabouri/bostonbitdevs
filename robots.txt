@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: bostonbitdevs.org/sitemap.xml
+Sitemap: https://www.bostonbitdevs.org/sitemap.xml

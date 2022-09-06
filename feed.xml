@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title></title>
-	<link href="bostonbitdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="bostonbitdevs.org"/>
+	<link href="https://www.bostonbitdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://www.bostonbitdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-09-08T00:00:00+00:00</updated>
-	<id>bostonbitdevs.org/feed.xml</id>
+	<id>https://www.bostonbitdevs.org/feed.xml</id>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 1</title>
 		<published>2022-09-08T00:00:00+00:00</published>
 		<updated>2022-09-08T00:00:00+00:00</updated>
-		<link rel="alternate" href="bostonbitdevs.org/socratic-1/" type="text/html"/>
-		<id>bostonbitdevs.org/socratic-1/</id>
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-1/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-1/</id>
 		<content type="html">&lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;&#x2F;h1&gt;
 </content>
 	</entry>
