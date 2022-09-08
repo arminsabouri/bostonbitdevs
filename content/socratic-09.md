@@ -31,7 +31,7 @@ Lightning
 - mempool.space launches a [Lightning Explorer](https://mempool.space/lightning)
 - [Rapid Gossip Sync](https://lightningdevkit.org/blog/announcing-rapid-gossip-sync/) by Arik Sosman
 - [Lightning Balance Discovery Attack Mitigation](https://www.gijsvandam.nl/research/) by Gijs van Dam
-- New (book on Channel Jamming Attacks and Mitigations)[https://jamming-dev.github.io/book/] by Antoine Riard and Gleb Naumenko
+- New [book on Channel Jamming Attacks and Mitigations](https://jamming-dev.github.io/book/) by Antoine Riard and Gleb Naumenko
 
 Privacy
 -------
