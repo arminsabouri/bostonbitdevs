@@ -50,8 +50,13 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;txstats.com&#x2F;dashboard&#x2F;db&#x2F;taproot-statistics?orgId=1&quot;&gt;Taproot adoption graphs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mailmanlists.org&#x2F;pipermail&#x2F;dlc-dev&#x2F;2022-August&#x2F;000149.html&quot;&gt;Perpetual &amp;quot;announcement free&amp;quot; DLCs with BLS signatures&lt;&#x2F;a&gt; by Lloyd Fournier&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;credibleconfessions.com&#x2F;&quot;&gt;Credible Confessions&lt;&#x2F;a&gt; by David Vorick&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;stephenlacy&#x2F;status&#x2F;1554697077430505473&quot;&gt;Fake malicious dependencies&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;fedimint-update&#x2F;&quot;&gt;Fedimint development update&lt;&#x2F;a&gt; by Blockstream&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;demos&quot;&gt;Demos&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fedimint with FROST Threshold Signing by bitgould&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
