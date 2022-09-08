@@ -46,5 +46,11 @@ Misc
 ----
 - [Taproot adoption graphs](https://txstats.com/dashboard/db/taproot-statistics?orgId=1)
 - [Perpetual "announcement free" DLCs with BLS signatures](https://mailmanlists.org/pipermail/dlc-dev/2022-August/000149.html) by Lloyd Fournier
+- [Credible Confessions](https://credibleconfessions.com/) by David Vorick
 - [Fake malicious dependencies](https://twitter.com/stephenlacy/status/1554697077430505473)
 - [Fedimint development update](https://blog.blockstream.com/fedimint-update/) by Blockstream
+
+Demos
+-----
+
+- Fedimint with FROST Threshold Signing by bitgould
