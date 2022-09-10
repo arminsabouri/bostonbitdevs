@@ -12,11 +12,15 @@ These are good places to start when compiling the reading List:
 - Bitcoin PR Review Club - https://bitcoincore.reviews/
 - BitMEX Research - https://blog.bitmex.com/research/
 - Blockstream Blog - https://blog.blockstream.com/
-- Triangle BitDevs - https://trianglebitdevs.org/
-- BitDevs NYC - https://bitdevs.org/
+
+Other BitDevs Groups:
 - Austin BitDevs - https://austinbitdevs.com/
-- SF Bitcoin Devs - https://sfbitcoindevs.org/
+- BitDevs LA - https://bitdevsla.org/
+- BitDevs NYC - https://bitdevs.org/
 - Chicago BitDevs - http://chibitdevs.org/
+- Denver BitDevs - http://denverbitdevs.com/
+- SF Bitcoin Devs - https://sfbitcoindevs.org/
+- Triangle BitDevs - https://trianglebitdevs.org/
 
 [Music to listen to while compiling.](https://www.door.link/)
 
