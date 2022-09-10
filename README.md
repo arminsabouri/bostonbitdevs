@@ -16,6 +16,7 @@ These are good places to start when compiling the reading List:
 - BitDevs NYC - https://bitdevs.org/
 - Austin BitDevs - https://austinbitdevs.com/
 - SF Bitcoin Devs - https://sfbitcoindevs.org/
+- Chicago BitDevs - http://chibitdevs.org/
 
 [Music to listen to while compiling.](https://www.door.link/)
 
