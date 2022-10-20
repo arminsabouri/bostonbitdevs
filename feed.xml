@@ -4,8 +4,48 @@
 	<link href="https://www.bostonbitdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.bostonbitdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-09-08T00:00:00+00:00</updated>
+	<updated>2022-10-26T00:00:00+00:00</updated>
 	<id>https://www.bostonbitdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 10</title>
+		<published>2022-10-26T00:00:00+00:00</published>
+		<updated>2022-10-26T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-10/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-10/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping!&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;culture&quot;&gt;Culture&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;25991&quot;&gt;Add foreign_outputs metadata to support CoinJoin transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;diyhpl.us&#x2F;wiki&#x2F;transcripts&#x2F;bitcoin-core-dev-tech&#x2F;2022-10-10-p2p-encryption&#x2F;&quot;&gt;P2P encryption BIP324 Draft&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;tftc.io&#x2F;martys-bent&#x2F;issue-1274&#x2F;?ref=TFTC-newsletter&quot;&gt;Erlay support signaling has been merged into Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;LDK supports &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lightningdevkit&#x2F;status&#x2F;1570455625104232449&quot;&gt;0conf channel openings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;LND Broke &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lopp&#x2F;status&#x2F;1579268315880751104?s=20&amp;amp;t=ZHCZ5pob-tRuZfSYxaNL_g&quot;&gt;background&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;btcsuite&#x2F;btcd&#x2F;pull&#x2F;1896&quot;&gt;the fix&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightning.engineering&#x2F;posts&#x2F;2022-9-28-taro-launch&#x2F;&quot;&gt;Taro Launch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;core-lightning-v0-12-0&#x2F;&quot;&gt;CLNv0.12.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;privacy&quot;&gt;Privacy&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;NeerajKA&#x2F;status&#x2F;1569719433395929093&quot;&gt;Tornado Cash uapdates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;misc&quot;&gt;Misc&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;was-satoshi-a-greedy-miner&#x2F;&quot;&gt;Patoshi Mining analysis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;decrypt.co&#x2F;110107&#x2F;sec-ethereum-us-jurisdiction&quot;&gt;SEC Claims All of Ethereum Falls Under US Jurisdiction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinrollups.org&quot;&gt;Bitcoin ZK Roll ups&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 9</title>
 		<published>2022-09-08T00:00:00+00:00</published>
