@@ -11,13 +11,15 @@ aliases = ["socratic/2022/10/26/socratic-10.html"]
 
 ## Culture
 
-- TBD
+- [Hodlonaut defeats Craig Wright](https://bitcoinmagazine.com/legal/hodlonaut-wins-defamation-case-against-craig-wright) in Norwegian court case for defamation
 
 ## Bitcoin Core
 
 - [Add foreign_outputs metadata to support CoinJoin transactions](https://bitcoincore.reviews/25991)
-- [P2P encryption BIP324 Draft](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/2022-10-10-p2p-encryption/)
+- Updates to [BIP 324](https://bip324.com/), a new P2P transport protocol with encryption 
 - [Erlay support signaling has been merged into Bitcoin Core](https://tftc.io/martys-bent/issue-1274/?ref=TFTC-newsletter)
+- [When Taproot?](https://whentaproot.org/)
+- [How much blockspace would it take to spend the complete UTXO set?](https://bitcoin.stackexchange.com/questions/114043/how-much-blockspace-would-it-take-to-spend-the-complete-utxo-set)
 
 ## Lightning
 
@@ -26,12 +28,21 @@ aliases = ["socratic/2022/10/26/socratic-10.html"]
 - [Taro Launch](https://lightning.engineering/posts/2022-9-28-taro-launch/)
 - [CLNv0.12.0](https://blog.blockstream.com/core-lightning-v0-12-0/)
 
-## Privacy
+## Validity Rollups on Bitcoin
 
-- [Tornado Cash uapdates](https://twitter.com/NeerajKA/status/1569719433395929093)
+- [A new report](https://bitcoinrollups.org/) by John Light
+
+## Mining
+
+- [Stratum V2 reference implementation](https://twitter.com/StratumV2/status/1579805619351326722) goes live
+- [New design for Braidpool](https://diyhpl.us/wiki/transcripts/tabconf/2022/braidpool/), by Bob McElrath
+
+## Regulation
+
+- Tornado Cash updates [#1](https://twitter.com/NeerajKA/status/1569719433395929093), [#2](https://twitter.com/preston_vanloon/status/1572958754395811841), and [#3](https://twitter.com/jerrybrito/status/1580237327364157440)
+- [SEC Claims All of Ethereum Falls Under US Jurisdiction](https://decrypt.co/110107/sec-ethereum-us-jurisdiction)
 
 ## Misc
 
 - [Patoshi Mining analysis](https://blog.lopp.net/was-satoshi-a-greedy-miner/)
-- [SEC Claims All of Ethereum Falls Under US Jurisdiction](https://decrypt.co/110107/sec-ethereum-us-jurisdiction)
-- [Bitcoin ZK Roll ups](https://bitcoinrollups.org)
+- New privacy focused [Spiral](https://btc.usespiral.com/) block explorer
