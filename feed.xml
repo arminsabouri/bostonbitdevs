@@ -19,13 +19,15 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;culture&quot;&gt;Culture&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;TBD&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;legal&#x2F;hodlonaut-wins-defamation-case-against-craig-wright&quot;&gt;Hodlonaut defeats Craig Wright&lt;&#x2F;a&gt; in Norwegian court case for defamation&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;25991&quot;&gt;Add foreign_outputs metadata to support CoinJoin transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;diyhpl.us&#x2F;wiki&#x2F;transcripts&#x2F;bitcoin-core-dev-tech&#x2F;2022-10-10-p2p-encryption&#x2F;&quot;&gt;P2P encryption BIP324 Draft&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Updates to &lt;a href=&quot;https:&#x2F;&#x2F;bip324.com&#x2F;&quot;&gt;BIP 324&lt;&#x2F;a&gt;, a new P2P transport protocol with encryption &lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;tftc.io&#x2F;martys-bent&#x2F;issue-1274&#x2F;?ref=TFTC-newsletter&quot;&gt;Erlay support signaling has been merged into Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;whentaproot.org&#x2F;&quot;&gt;When Taproot?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;114043&#x2F;how-much-blockspace-would-it-take-to-spend-the-complete-utxo-set&quot;&gt;How much blockspace would it take to spend the complete UTXO set?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -34,15 +36,24 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightning.engineering&#x2F;posts&#x2F;2022-9-28-taro-launch&#x2F;&quot;&gt;Taro Launch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;core-lightning-v0-12-0&#x2F;&quot;&gt;CLNv0.12.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;privacy&quot;&gt;Privacy&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;validity-rollups-on-bitcoin&quot;&gt;Validity Rollups on Bitcoin&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;NeerajKA&#x2F;status&#x2F;1569719433395929093&quot;&gt;Tornado Cash uapdates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinrollups.org&#x2F;&quot;&gt;A new report&lt;&#x2F;a&gt; by John Light&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;mining&quot;&gt;Mining&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;StratumV2&#x2F;status&#x2F;1579805619351326722&quot;&gt;Stratum V2 reference implementation&lt;&#x2F;a&gt; goes live&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;diyhpl.us&#x2F;wiki&#x2F;transcripts&#x2F;tabconf&#x2F;2022&#x2F;braidpool&#x2F;&quot;&gt;New design for Braidpool&lt;&#x2F;a&gt;, by Bob McElrath&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;regulation&quot;&gt;Regulation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tornado Cash updates &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;NeerajKA&#x2F;status&#x2F;1569719433395929093&quot;&gt;#1&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;preston_vanloon&#x2F;status&#x2F;1572958754395811841&quot;&gt;#2&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;jerrybrito&#x2F;status&#x2F;1580237327364157440&quot;&gt;#3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;decrypt.co&#x2F;110107&#x2F;sec-ethereum-us-jurisdiction&quot;&gt;SEC Claims All of Ethereum Falls Under US Jurisdiction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;misc&quot;&gt;Misc&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;was-satoshi-a-greedy-miner&#x2F;&quot;&gt;Patoshi Mining analysis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;decrypt.co&#x2F;110107&#x2F;sec-ethereum-us-jurisdiction&quot;&gt;SEC Claims All of Ethereum Falls Under US Jurisdiction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinrollups.org&quot;&gt;Bitcoin ZK Roll ups&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;New privacy focused &lt;a href=&quot;https:&#x2F;&#x2F;btc.usespiral.com&#x2F;&quot;&gt;Spiral&lt;&#x2F;a&gt; block explorer&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
