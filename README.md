@@ -14,6 +14,7 @@ These are good places to start when compiling the reading List:
 - Blockstream Blog - https://blog.blockstream.com/
 
 Other BitDevs Groups:
+- Atlanta BitDevs - https://atlantabitdevs.org/
 - Austin BitDevs - https://austinbitdevs.com/
 - BitDevs LA - https://bitdevsla.org/
 - BitDevs NYC - https://bitdevs.org/
