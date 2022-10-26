@@ -19,7 +19,7 @@ aliases = ["socratic/2022/10/26/socratic-10.html"]
 
 - PR review club: [Add foreign_outputs metadata to support CoinJoin transactions](https://bitcoincore.reviews/25991)
 - Updates to [BIP 324](https://bip324.com/), a new P2P transport protocol with encryption 
-- [Erlay support signaling merged](https://tftc.io/martys-bent/issue-1274/?ref=TFTC-newsletter) into Bitcoin Core
+- [Erlay support signaling merged](https://tftc.io/martys-bent/issue-1274/?ref=TFTC-newsletter) into Bitcoin Core. <a href="https://arxiv.org/pdf/1905.10518.pdf">Read the paper</a>
 - [When Taproot?](https://whentaproot.org/)
 - Bitcoin Stack Exchange: [How much blockspace would it take to spend the complete UTXO set?](https://bitcoin.stackexchange.com/questions/114043/how-much-blockspace-would-it-take-to-spend-the-complete-utxo-set)
 - [v24.0 RC Test Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/24.0-Release-Candidate-Testing-Guide)
