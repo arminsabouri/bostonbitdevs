@@ -4,9 +4,11 @@ date = 2022-10-26
 aliases = ["socratic/2022/10/26/socratic-10.html"]
 +++
 
-## Housekeeping!
+## Housekeeping
 
+- [What is a Socratic Seminar?](https://bitdevs.org/about#socratic-seminars)
 - Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar [here](https://github.com/0xBEEFCAF3/bostonbitdevs/issues/new).
+- No photos, videos, or recordings.
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.
 
 ## Culture
@@ -15,22 +17,23 @@ aliases = ["socratic/2022/10/26/socratic-10.html"]
 
 ## Bitcoin Core
 
-- [Add foreign_outputs metadata to support CoinJoin transactions](https://bitcoincore.reviews/25991)
+- PR review club: [Add foreign_outputs metadata to support CoinJoin transactions](https://bitcoincore.reviews/25991)
 - Updates to [BIP 324](https://bip324.com/), a new P2P transport protocol with encryption 
-- [Erlay support signaling has been merged into Bitcoin Core](https://tftc.io/martys-bent/issue-1274/?ref=TFTC-newsletter)
+- [Erlay support signaling merged](https://tftc.io/martys-bent/issue-1274/?ref=TFTC-newsletter) into Bitcoin Core
 - [When Taproot?](https://whentaproot.org/)
-- [How much blockspace would it take to spend the complete UTXO set?](https://bitcoin.stackexchange.com/questions/114043/how-much-blockspace-would-it-take-to-spend-the-complete-utxo-set)
+- Bitcoin Stack Exchange: [How much blockspace would it take to spend the complete UTXO set?](https://bitcoin.stackexchange.com/questions/114043/how-much-blockspace-would-it-take-to-spend-the-complete-utxo-set)
+- [v24.0 RC Test Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/24.0-Release-Candidate-Testing-Guide)
 
 ## Lightning
 
 - LDK supports [0conf channel openings](https://twitter.com/lightningdevkit/status/1570455625104232449)
-- LND Broke [background](https://twitter.com/lopp/status/1579268315880751104?s=20&t=ZHCZ5pob-tRuZfSYxaNL_g), [the fix](https://github.com/btcsuite/btcd/pull/1896)
+- A 998/999 taproot multisig breaks LND. [background](https://twitter.com/lopp/status/1579268315880751104?s=20&t=ZHCZ5pob-tRuZfSYxaNL_g), [the fix](https://github.com/btcsuite/btcd/pull/1896)
 - [Taro Launch](https://lightning.engineering/posts/2022-9-28-taro-launch/)
 - [CLNv0.12.0](https://blog.blockstream.com/core-lightning-v0-12-0/)
 
 ## Validity Rollups on Bitcoin
 
-- [A new report](https://bitcoinrollups.org/) by John Light
+- [A new report](https://bitcoinrollups.org/) by John Light that includes a summary of [this write up on zk-rollups in bitcoin](https://tr3y.io/articles/crypto/bitcoin-zk-rollups.html) by Trey Del Bonis
 
 ## Mining
 

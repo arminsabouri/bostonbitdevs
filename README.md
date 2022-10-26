@@ -19,6 +19,7 @@ Other BitDevs Groups:
 - BitDevs LA - https://bitdevsla.org/
 - BitDevs NYC - https://bitdevs.org/
 - Chicago BitDevs - http://chibitdevs.org/
+- DC BitDevs - https://dcbitdevs.org/
 - Denver BitDevs - http://denverbitdevs.com/
 - SF Bitcoin Devs - https://sfbitcoindevs.org/
 - Triangle BitDevs - https://trianglebitdevs.org/
