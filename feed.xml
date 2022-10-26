@@ -12,9 +12,11 @@
 		<updated>2022-10-26T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-10/" type="text/html"/>
 		<id>https://www.bostonbitdevs.org/socratic-10/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping!&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;culture&quot;&gt;Culture&lt;&#x2F;h2&gt;
@@ -23,22 +25,23 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;25991&quot;&gt;Add foreign_outputs metadata to support CoinJoin transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;PR review club: &lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;25991&quot;&gt;Add foreign_outputs metadata to support CoinJoin transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Updates to &lt;a href=&quot;https:&#x2F;&#x2F;bip324.com&#x2F;&quot;&gt;BIP 324&lt;&#x2F;a&gt;, a new P2P transport protocol with encryption &lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;tftc.io&#x2F;martys-bent&#x2F;issue-1274&#x2F;?ref=TFTC-newsletter&quot;&gt;Erlay support signaling has been merged into Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;tftc.io&#x2F;martys-bent&#x2F;issue-1274&#x2F;?ref=TFTC-newsletter&quot;&gt;Erlay support signaling merged&lt;&#x2F;a&gt; into Bitcoin Core&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;whentaproot.org&#x2F;&quot;&gt;When Taproot?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;114043&#x2F;how-much-blockspace-would-it-take-to-spend-the-complete-utxo-set&quot;&gt;How much blockspace would it take to spend the complete UTXO set?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Bitcoin Stack Exchange: &lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;114043&#x2F;how-much-blockspace-would-it-take-to-spend-the-complete-utxo-set&quot;&gt;How much blockspace would it take to spend the complete UTXO set?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;bitcoin-devwiki&#x2F;wiki&#x2F;24.0-Release-Candidate-Testing-Guide&quot;&gt;v24.0 RC Test Guide&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;LDK supports &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lightningdevkit&#x2F;status&#x2F;1570455625104232449&quot;&gt;0conf channel openings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;LND Broke &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lopp&#x2F;status&#x2F;1579268315880751104?s=20&amp;amp;t=ZHCZ5pob-tRuZfSYxaNL_g&quot;&gt;background&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;btcsuite&#x2F;btcd&#x2F;pull&#x2F;1896&quot;&gt;the fix&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;A 998&#x2F;999 taproot multisig breaks LND. &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lopp&#x2F;status&#x2F;1579268315880751104?s=20&amp;amp;t=ZHCZ5pob-tRuZfSYxaNL_g&quot;&gt;background&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;btcsuite&#x2F;btcd&#x2F;pull&#x2F;1896&quot;&gt;the fix&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightning.engineering&#x2F;posts&#x2F;2022-9-28-taro-launch&#x2F;&quot;&gt;Taro Launch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;core-lightning-v0-12-0&#x2F;&quot;&gt;CLNv0.12.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;validity-rollups-on-bitcoin&quot;&gt;Validity Rollups on Bitcoin&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinrollups.org&#x2F;&quot;&gt;A new report&lt;&#x2F;a&gt; by John Light&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinrollups.org&#x2F;&quot;&gt;A new report&lt;&#x2F;a&gt; by John Light that includes a summary of &lt;a href=&quot;https:&#x2F;&#x2F;tr3y.io&#x2F;articles&#x2F;crypto&#x2F;bitcoin-zk-rollups.html&quot;&gt;this write up on zk-rollups in bitcoin&lt;&#x2F;a&gt; by Trey Del Bonis&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;mining&quot;&gt;Mining&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -69,7 +72,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are  free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;culture&quot;&gt;Culture&lt;&#x2F;h2&gt;
 &lt;ul&gt;
