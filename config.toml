@@ -1,3 +1,4 @@
+title = "Boston BitDevs"
 base_url = "https://www.bostonbitdevs.org"
 compile_sass = false
 build_search_index = false
