@@ -6,6 +6,7 @@ links=(
   posts
   socratic/2022/09/08/socratic-09.html
   socratic/2022/10/26/socratic-10.html
+  socratic/2022/12/15/socratic-11.html
 )
 
 for link in ${links[@]}; do
