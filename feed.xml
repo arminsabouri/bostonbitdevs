@@ -21,16 +21,19 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;full-rbf&quot;&gt;Full RBF&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;glozow&#x2F;bitcoin-notes&#x2F;blob&#x2F;full-rbf&#x2F;full-rbf.md&quot;&gt;Introductory Notes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-October&#x2F;021116.html&quot;&gt;On Mempool Policy Consistency&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mail-archive.com&#x2F;bitcoin-dev@lists.linuxfoundation.org&#x2F;msg12130.html&quot;&gt;Resonse Against&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;26438&quot;&gt;Bitcoin Core PR #26438&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;bitcoinoptech&#x2F;status&#x2F;1585241693992820736?s=20&amp;amp;t=YV5_-Estm4kz7xSfhcpzzA&quot;&gt;Bitcoin Optech Twitter Thread&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;glozow&#x2F;bitcoin-notes&#x2F;blob&#x2F;full-rbf&#x2F;full-rbf.md&quot;&gt;Introductory Notes&lt;&#x2F;a&gt; by Gloria Zhao&lt;&#x2F;li&gt;
+&lt;li&gt;Mailing list post &lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-October&#x2F;021116.html&quot;&gt;on mempool policy consistency&lt;&#x2F;a&gt; by AJ Towns&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mail-archive.com&#x2F;bitcoin-dev@lists.linuxfoundation.org&#x2F;msg12130.html&quot;&gt;Response Against&lt;&#x2F;a&gt; by John Carvalho&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;26438&quot;&gt;Bitcoin Core PR #26438&lt;&#x2F;a&gt; (now closed) PR to remove the mempoolfullrbf option&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;bitcoinoptech&#x2F;status&#x2F;1585241693992820736?s=20&amp;amp;t=YV5_-Estm4kz7xSfhcpzzA&quot;&gt;Bitcoin Optech Twitter Spaces Recording&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;26525&quot;&gt;Bitcoin Core PR #26525&lt;&#x2F;a&gt; - open PR to remove the mempoolfullrbf option&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;varierty-in-implementations&quot;&gt;Varierty in Implementations&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;variety-in-bitcoin-implementations&quot;&gt;Variety in Bitcoin Implementations&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;petertodd.org&#x2F;2016&#x2F;multiple-implementations-consensus-systems&quot;&gt;Background Reading&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;brqgoo&#x2F;status&#x2F;1587397646125260802?s=46&amp;amp;t=ees6gQ0q1gXw9i89Iv_TyQ&quot;&gt;Burak Breaks Lnd &amp;amp; More&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;brqgoo&#x2F;status&#x2F;1587397646125260802?s=46&amp;amp;t=ees6gQ0q1gXw9i89Iv_TyQ&quot;&gt;Burak breaks more stuff&lt;&#x2F;a&gt; (original tweet)&lt;&#x2F;li&gt;
+&lt;li&gt;Follow up: It was an issue in older versions of rust-bitcoin which caused &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;7#issuecomment-1304882080&quot;&gt;many more projects than just LND to be impacted&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;petertodd.org&#x2F;2016&#x2F;multiple-implementations-consensus-systems&quot;&gt;Background Reading&lt;&#x2F;a&gt;: Peter Todd&#x27;s thoughts on multiple implementations&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;Bitcoin&#x2F;comments&#x2F;yj9low&#x2F;lnd_emergency_bugfix_release_0154_beta&#x2F;iuu1bw2&#x2F;?context=3&quot;&gt;Greg Maxwell&#x27;s thoughts regarding a &#x27;Bitcoin Spec&#x27;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bitcoin-dev&quot;&gt;bitcoin-dev&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -41,6 +44,11 @@
 &lt;h2 id=&quot;lightning-dev&quot;&gt;lightning-dev&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-November&#x2F;003754.html&quot;&gt;Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;regulation&quot;&gt;Regulation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;www.warren.senate.gov&#x2F;imo&#x2F;media&#x2F;doc&#x2F;DAAML%20Act%20of%202022.pdf&quot;&gt;Digital Asset Anti5 Money Laundering Act of 2022&lt;&#x2F;a&gt; by Senators Elizabeth Warren (D-MA) and Roger Marshall (R-KS)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.coincenter.org&#x2F;the-digital-asset-anti-money-laundering-act-is-an-opportunistic-unconstitutional-assault-on-cryptocurrency-self-custody-developers-and-node-operators&#x2F;&quot;&gt;Coin Center&#x27;s Response&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
