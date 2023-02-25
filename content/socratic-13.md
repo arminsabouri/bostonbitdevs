@@ -15,6 +15,7 @@ aliases = ["socratic/2023/02/28/socratic-13.html"]
 
 - [Bitcoin Technical Search](https://bitcoinsearch.xyz/)
 - [Bitcoin Confirmation Risk Calculator](https://blog.lopp.net/how-many-bitcoin-confirmations-is-enough/)
+- [https://blindsigs.utxo.club/](https://blindsigs.utxo.club/)
 - [Contracting Primitives](https://github.com/ariard/bitcoin-contracting-primitives-wg/tree/main/primitives)
 - [Liana Supporting descriptors and multi sig](https://github.com/wizardsardine/liana/releases/tag/0.2)
 
@@ -36,12 +37,19 @@ aliases = ["socratic/2023/02/28/socratic-13.html"]
 - [Ordinal BIP](https://github.com/casey/ord/blob/master/bip.mediawiki)
 - [Ordinal theory handbook](https://docs.ordinals.com/overview.html)
 - [Andrew Poelstra - Ordinal Inscription Size Limits](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021372.html)
+- [Ordisrespector spam filter](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html)
 
 # Privacy
 
 - [Ordinals Bip](https://github.com/casey/ord/blob/master/bip.mediawiki)
 - [CoinJoin protocols and implementations analysis](https://is.muni.cz/th/kbvx1/Master_Thesis.pdf)
 - [Discrete Payments through Wabisabi coinjoins and Nostr ecnrypted communication.md](https://gist.github.com/nopara73/bb17e89d7dc9af536ca41f50f705d329)
+- [Cashabi -nostr-native ecash system based on WabiSabi Keyed-Verification Anonymous Credentials](https://lontivero.github.io/Wiki/html/cashabi.html#abstract)
+
+# Research
+
+- [tlock: Practical Timelock Encryption from Threshold BLS](https://eprint.iacr.org/2023/189)
+- [Encrypted Image Filtering Using Homomorphic Encryption](https://docs.zama.ai/concrete-ml)
 
 # Bitcoin Core PRs
 
