@@ -41,7 +41,6 @@ aliases = ["socratic/2023/02/28/socratic-13.html"]
 
 # Privacy
 
-- [Ordinals Bip](https://github.com/casey/ord/blob/master/bip.mediawiki)
 - [CoinJoin protocols and implementations analysis](https://is.muni.cz/th/kbvx1/Master_Thesis.pdf)
 - [Discrete Payments through Wabisabi coinjoins and Nostr ecnrypted communication.md](https://gist.github.com/nopara73/bb17e89d7dc9af536ca41f50f705d329)
 - [Cashabi -nostr-native ecash system based on WabiSabi Keyed-Verification Anonymous Credentials](https://lontivero.github.io/Wiki/html/cashabi.html#abstract)
