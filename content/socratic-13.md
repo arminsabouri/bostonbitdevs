@@ -19,12 +19,18 @@ aliases = ["socratic/2023/02/28/socratic-13.html"]
 - [Contracting Primitives](https://github.com/ariard/bitcoin-contracting-primitives-wg/tree/main/primitives)
 - [Liana Supporting descriptors and multi sig](https://github.com/wizardsardine/liana/releases/tag/0.2)
 
-## bitcoin-dev
+## [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 
 - [Unenforceable fee obligations in multiparty protocols with Taproot inputs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021444.html)
 - [Why Full-RBF Makes DoS Attacks on Multiparty Protocols Significantly More Expensive](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021322.html)
 - [New BIP32 Backup Scheme](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021469.html)
 - [SIGHASH_GROUP vs Ephemeral anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021334.html)
+
+
+## [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
+- [Async payments proof-of-payment: a wishlist for researchers](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003833.html), [more](https://gist.github.com/remyers/e0d2bedb7bc87371d1bdbbb6fff2edd1), [more](https://twitter.com/BtcpayServer/status/1622844546576191488)
+- [Highly Available Lightning Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-February/003842.html)
+- [Local Reputation to Mitigate Slow Jamming](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-February/003857.html)
 
 ## Miniscript
 
@@ -44,6 +50,7 @@ aliases = ["socratic/2023/02/28/socratic-13.html"]
 - [CoinJoin protocols and implementations analysis](https://is.muni.cz/th/kbvx1/Master_Thesis.pdf)
 - [Discrete Payments through Wabisabi coinjoins and Nostr ecnrypted communication.md](https://gist.github.com/nopara73/bb17e89d7dc9af536ca41f50f705d329)
 - [Cashabi -nostr-native ecash system based on WabiSabi Keyed-Verification Anonymous Credentials](https://lontivero.github.io/Wiki/html/cashabi.html#abstract)
+- [BTCPay CoinJoin Plugin](https://twitter.com/MrKukks/status/1630221270246719489?t=E5kOuzkzrf17lr1hxRcL8g&s=19)
 
 # Research
 
