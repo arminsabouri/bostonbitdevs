@@ -27,12 +27,18 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ariard&#x2F;bitcoin-contracting-primitives-wg&#x2F;tree&#x2F;main&#x2F;primitives&quot;&gt;Contracting Primitives&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;wizardsardine&#x2F;liana&#x2F;releases&#x2F;tag&#x2F;0.2&quot;&gt;Liana Supporting descriptors and multi sig&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;bitcoin-dev&quot;&gt;bitcoin-dev&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-February&#x2F;021444.html&quot;&gt;Unenforceable fee obligations in multiparty protocols with Taproot inputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-January&#x2F;021322.html&quot;&gt;Why Full-RBF Makes DoS Attacks on Multiparty Protocols Significantly More Expensive&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-February&#x2F;021469.html&quot;&gt;New BIP32 Backup Scheme&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-January&#x2F;021334.html&quot;&gt;SIGHASH_GROUP vs Ephemeral anchors&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;lightning-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&quot;&gt;lightning-dev&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-January&#x2F;003833.html&quot;&gt;Async payments proof-of-payment: a wishlist for researchers&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;remyers&#x2F;e0d2bedb7bc87371d1bdbbb6fff2edd1&quot;&gt;more&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;BtcpayServer&#x2F;status&#x2F;1622844546576191488&quot;&gt;more&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-February&#x2F;003842.html&quot;&gt;Highly Available Lightning Channels&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-February&#x2F;003857.html&quot;&gt;Local Reputation to Mitigate Slow Jamming&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;miniscript&quot;&gt;Miniscript&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -52,6 +58,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;is.muni.cz&#x2F;th&#x2F;kbvx1&#x2F;Master_Thesis.pdf&quot;&gt;CoinJoin protocols and implementations analysis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;nopara73&#x2F;bb17e89d7dc9af536ca41f50f705d329&quot;&gt;Discrete Payments through Wabisabi coinjoins and Nostr ecnrypted communication.md&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lontivero.github.io&#x2F;Wiki&#x2F;html&#x2F;cashabi.html#abstract&quot;&gt;Cashabi -nostr-native ecash system based on WabiSabi Keyed-Verification Anonymous Credentials&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;MrKukks&#x2F;status&#x2F;1630221270246719489?t=E5kOuzkzrf17lr1hxRcL8g&amp;amp;s=19&quot;&gt;BTCPay CoinJoin Plugin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;research&quot;&gt;Research&lt;&#x2F;h1&gt;
 &lt;ul&gt;
