@@ -23,7 +23,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinsearch.xyz&#x2F;&quot;&gt;Bitcoin Technical Search&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;how-many-bitcoin-confirmations-is-enough&#x2F;&quot;&gt;Bitcoin Confirmation Risk Calculator&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blindsigs.utxo.club&#x2F;&quot;&gt;https:&#x2F;&#x2F;blindsigs.utxo.club&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blindsigs.utxo.club&#x2F;&quot;&gt;Blind Schnorr Signature Interactive Demo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ariard&#x2F;bitcoin-contracting-primitives-wg&#x2F;tree&#x2F;main&#x2F;primitives&quot;&gt;Contracting Primitives&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;wizardsardine&#x2F;liana&#x2F;releases&#x2F;tag&#x2F;0.2&quot;&gt;Liana Supporting descriptors and multi sig&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -50,7 +50,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;unchained.com&#x2F;blog&#x2F;bitcoin-inscriptions-ordinals&#x2F;&quot;&gt;What are bitcoin inscriptions and ordinals, and how do they work?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;casey&#x2F;ord&#x2F;blob&#x2F;master&#x2F;bip.mediawiki&quot;&gt;Ordinal BIP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.ordinals.com&#x2F;overview.html&quot;&gt;Ordinal theory handbook&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lightcoin&#x2F;status&#x2F;1630301399358533633&quot;&gt;Using inscriptions to embed sovereign rollup&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lightcoin&#x2F;status&#x2F;1630301399358533633&quot;&gt;Using inscriptions to embed sovereign rollup &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-January&#x2F;021372.html&quot;&gt;Andrew Poelstra - Ordinal Inscription Size Limits&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;minibolt.info&#x2F;guide&#x2F;bonus&#x2F;bitcoin&#x2F;ordisrespector.html&quot;&gt;Ordisrespector spam filter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
