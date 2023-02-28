@@ -15,7 +15,7 @@ aliases = ["socratic/2023/02/28/socratic-13.html"]
 
 - [Bitcoin Technical Search](https://bitcoinsearch.xyz/)
 - [Bitcoin Confirmation Risk Calculator](https://blog.lopp.net/how-many-bitcoin-confirmations-is-enough/)
-- [https://blindsigs.utxo.club/](https://blindsigs.utxo.club/)
+- [Blind Schnorr Signature Interactive Demo](https://blindsigs.utxo.club/)
 - [Contracting Primitives](https://github.com/ariard/bitcoin-contracting-primitives-wg/tree/main/primitives)
 - [Liana Supporting descriptors and multi sig](https://github.com/wizardsardine/liana/releases/tag/0.2)
 
@@ -42,7 +42,7 @@ aliases = ["socratic/2023/02/28/socratic-13.html"]
 - [What are bitcoin inscriptions and ordinals, and how do they work?](https://unchained.com/blog/bitcoin-inscriptions-ordinals/)
 - [Ordinal BIP](https://github.com/casey/ord/blob/master/bip.mediawiki)
 - [Ordinal theory handbook](https://docs.ordinals.com/overview.html)
-- [Using inscriptions to embed sovereign rollup](https://twitter.com/lightcoin/status/1630301399358533633)
+- [Using inscriptions to embed sovereign rollup ](https://twitter.com/lightcoin/status/1630301399358533633)
 - [Andrew Poelstra - Ordinal Inscription Size Limits](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021372.html)
 - [Ordisrespector spam filter](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html)
 
