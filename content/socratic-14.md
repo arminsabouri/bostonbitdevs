@@ -15,7 +15,7 @@ aliases = ["socratic/2023/03/28/socratic-14.html"]
 - [rust-bitcoin v0.30.0](https://rust-bitcoin.org/blog/release-0.30.0)
 - [Typescript Bitcoin Descriptors Library](https://github.com/bitcoinerlab/descriptors)
 - [Lightning on Blockstream Green](https://twitter.com/Blockstream/status/1638671142570594305)
-- [mempool.space explorer enhances CPFP support](https://twitter.com/Blockstream/status/1638671142570594305)
+- [mempool.space explorer enhances CPFP support](https://twitter.com/mempool/status/1630196989370712066)
 
 ## [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 - [Unenforceable fee obligations in multiparty protocols with Taproot inputs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021444.html)
