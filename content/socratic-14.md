@@ -24,7 +24,7 @@ aliases = ["socratic/2023/03/28/socratic-14.html"]
 
 ## Bolt 12
 - [LDK 0.0.114 "Faster Async BOLT12 Retries"](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.114)
-- [lightning/bolts#798](BOLT 12)
+- [lightning/bolts#798](https://github.com/lightning/bolts/pull/798)
 
 ## Rolls ups + Alternatives
 - [Sovereign rollups on Bitcoin with Rollkit](https://rollkit.dev/blog/sovereign-rollups-on-bitcoin/#evm-on-bitcoin-demo)
