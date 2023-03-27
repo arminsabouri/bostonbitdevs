@@ -35,7 +35,7 @@
 &lt;h2 id=&quot;bolt-12&quot;&gt;Bolt 12&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;releases&#x2F;tag&#x2F;v0.0.114&quot;&gt;LDK 0.0.114 &amp;quot;Faster Async BOLT12 Retries&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;[lightning&#x2F;bolts#798](BOLT 12)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;798&quot;&gt;lightning&#x2F;bolts#798&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;rolls-ups-alternatives&quot;&gt;Rolls ups + Alternatives&lt;&#x2F;h2&gt;
 &lt;ul&gt;
