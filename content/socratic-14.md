@@ -16,6 +16,9 @@ aliases = ["socratic/2023/03/28/socratic-14.html"]
 - [Typescript Bitcoin Descriptors Library](https://github.com/bitcoinerlab/descriptors)
 - [Lightning on Blockstream Green](https://twitter.com/Blockstream/status/1638671142570594305)
 - [mempool.space explorer enhances CPFP support](https://twitter.com/mempool/status/1630196989370712066)
+- [musig2 BIP!](https://github.com/bitcoin/bips/blob/master/bip-0327.mediawiki)
+- [LND Config Generator](https://0xbeefcaf3.github.io/LND-config-generator)
+
 
 ## [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 - [Unenforceable fee obligations in multiparty protocols with Taproot inputs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021444.html)
