@@ -18,6 +18,7 @@ aliases = ["socratic/2023/03/28/socratic-14.html"]
 - [mempool.space explorer enhances CPFP support](https://twitter.com/mempool/status/1630196989370712066)
 - [musig2 BIP!](https://github.com/bitcoin/bips/blob/master/bip-0327.mediawiki)
 - [LND Config Generator](https://0xbeefcaf3.github.io/LND-config-generator)
+- [Payjoin.org](http://payjoin.org/)
 
 
 ## [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
