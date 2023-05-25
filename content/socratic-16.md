@@ -20,7 +20,7 @@ aliases = ["socratic/2023/05/26/socratic-16.html"]
 ### [Advanced Payjoin Use](https://payjoin.substack.com/p/interactive-payment-batching-is-better)
 
 ## Misc.
-### [TBDxxx is now Ark](https://www.arkpill.me/)
 ### [Trust wallet Browser Extension Vulnerability](https://blog.ledger.com/Funds-of-every-wallet-created-with-the-Trust-Wallet-browser-extension-could-have-been-stolen/)
 ### [Mempool Tx accelerator](https://twitter.com/mempool/status/1659619347910803466)
-
+### [Bitcoin Fog and the case against Roman Sterlingov](https://twitter.com/JackTracante/status/1661114322469134362?s=20 )
+### [TBDxxx is now Ark](https://www.arkpill.me/)
