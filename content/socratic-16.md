@@ -13,7 +13,7 @@ aliases = ["socratic/2023/05/26/socratic-16.html"]
 
 ## Bitcoin
 
-### [New Mempool Design](bitcoin/bitcoin#27677)
+### [New Mempool Design](https://github.com/bitcoin/bitcoin#27677)
 ### [Ledger Recovery System](https://www.nobsbitcoin.com/ledger-to-launch-kyc-cloud-based-recovery-service/)
 ### [Mempools Are FULL](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)
 ### [Munstr: Musig + Nostr](https://github.com/0xBEEFCAF3/munstr/)
