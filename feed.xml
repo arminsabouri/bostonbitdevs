@@ -4,8 +4,42 @@
 	<link href="https://www.bostonbitdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.bostonbitdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2023-05-25T00:00:00+00:00</updated>
+	<updated>2023-06-13T00:00:00+00:00</updated>
 	<id>https://www.bostonbitdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 17</title>
+		<published>2023-06-13T00:00:00+00:00</published>
+		<updated>2023-06-13T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-17/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-17/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bitcoin-transaction-relay-over-nostr&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-May&#x2F;021700.html&quot;&gt;Bitcoin Transaction Relay over Nostr&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;payjoin-over-nostr&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;1440000bytes&#x2F;status&#x2F;1666115243481907200?s=20&quot;&gt;Payjoin over Nostr&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;lndk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;lndk&#x2F;&quot;&gt;LNDK&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;ark&quot;&gt;Ark&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;ark-explainer&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;RubenSomsen&#x2F;a394beb1dea9e47e981216768e007454&quot;&gt;Ark Explainer&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;twitter-thread&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_AlexLewin&#x2F;status&#x2F;1667185028768452611&quot;&gt;Twitter Thread&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;white-board-sesh&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=EocWax43QgQ&quot;&gt;White Board Sesh&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;arkpill&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.arkpill.me&#x2F;deep-dive&quot;&gt;Arkpill&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;silent-payments&quot;&gt;Silent Payments&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;silent-payments-pr&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;27827&quot;&gt;Silent Payments PR&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;silent-payments-explainer&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;RubenSomsen&#x2F;c43b79517e7cb701ebf77eec6dbb46b8&quot;&gt;Silent Payments Explainer&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;frost-updates&quot;&gt;FROST Updates&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;modifying-frost-signers-and-threshold&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;nickfarrow&#x2F;64c2e65191cde6a1a47bbd4572bf8cf8&quot;&gt;Modifying FROST Signers and Threshold&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;misc&quot;&gt;Misc.&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;a-mysterious-deep-pocketed-collector-is-looting-uncommon-ordinal-sats-from-binance-and-okx&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;mononautical&#x2F;status&#x2F;1666079581374230529&quot;&gt;A mysterious deep-pocketed collector is looting uncommon ordinal sats from Binance and OKX&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;the-curious-case-of-the-half-half-bitcoin-ecdsa-nonces&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;841.pdf&quot;&gt;The curious case of the half-half Bitcoin ECDSA nonces&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;coinbase-for-operating-as-an-unregistered-securities-exchange-broker-and-clearing-agency&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.sec.gov&#x2F;news&#x2F;press-release&#x2F;2023-102&quot;&gt;Coinbase for Operating as an Unregistered Securities Exchange, Broker, and Clearing Agency&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 16</title>
 		<published>2023-05-25T00:00:00+00:00</published>
