@@ -16,7 +16,7 @@ aliases = ["socratic/2023/06/13/socratic-1.html"]
 ### [Payjoin over Nostr](https://twitter.com/1440000bytes/status/1666115243481907200?s=20)
 
 ## Lightning
-### [LNDK] (https://www.nobsbitcoin.com/lndk/)
+### [LNDK](https://www.nobsbitcoin.com/lndk/)
 
 ## Ark
 
