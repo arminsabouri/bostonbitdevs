@@ -4,8 +4,43 @@
 	<link href="https://www.bostonbitdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.bostonbitdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2023-06-13T00:00:00+00:00</updated>
+	<updated>2023-07-18T00:00:00+00:00</updated>
 	<id>https://www.bostonbitdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 18</title>
+		<published>2023-07-18T00:00:00+00:00</published>
+		<updated>2023-07-18T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-18/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-18/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;the-many-faces-of-schnorr&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;1019&quot;&gt;The many faces of Schnorr&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;vaults-in-the-matt-framework&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-June&#x2F;021730.html&quot;&gt;Vaults in the MATT framework&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;inv-dos&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;invdos.net&#x2F;&quot;&gt;INV DOS&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;lightning-as-the-backbone-of-decentralized-ai-models&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hivemind.vc&#x2F;ai&#x2F;&quot;&gt;Lightning as the backbone of decentralized AI models&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;l-402&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.lightning.engineering&#x2F;the-lightning-network&#x2F;l402&quot;&gt;L-402&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;splicing-phoenix-beta&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;acinq.co&#x2F;blog&#x2F;phoenix-splicing-update&quot;&gt;Splicing Phoenix Beta&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;vls-beta-announcment&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vls.tech&#x2F;posts&#x2F;vls-beta&#x2F;&quot;&gt;VLS Beta announcment&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;ldk-node&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bostonbitdevs.org&#x2F;socratic-18&#x2F;lightningdevkit.org&#x2F;blog&#x2F;announcing-ldk-node&#x2F;&quot;&gt;LDK Node&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;mutiny-wallet-beta&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.mutinywallet.com&#x2F;mutiny-wallet-open-beta&#x2F;&quot;&gt;Mutiny Wallet Beta&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;full-rbf-peering-bitcoin-core-v25-0-released&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-June&#x2F;021729.html&quot;&gt;Full-RBF Peering Bitcoin Core v25.0 Released&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;foundation-passport-v2-1-0&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;foundation-passport-v2-1-0&#x2F;&quot;&gt;foundation-passport-v2-1-0&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;bitgo-released-musig2-wallet&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;bitgo-added-taproot-musig2-on-bitcoin-hot-wallets&#x2F;&quot;&gt;BitGo Released MuSig2 Wallet&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;bitcoin-keeper-v1-0-6-whirlpool-for-android-users&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;bitcoin-keeper-v1-0-6&#x2F;&quot;&gt;Bitcoin Keeper v1.0.6: Whirlpool for Android Users&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;misc&quot;&gt;Misc.&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;block-stream-jade-side-channel-attack-analysis&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.ledger.com&#x2F;blockstream&#x2F;&quot;&gt;Block stream Jade side channel attack analysis&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;simplicity-holes-and-side-effects&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;simplicity-holes-and-side-effects&#x2F;&quot;&gt;Simplicity: Holes and Side Effects&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;ledger-recover-technical-white-paper&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;LedgerHQ&#x2F;recover-whitepaper&#x2F;blob&#x2F;main&#x2F;Ledger%20Recover%20Technical%20White%20Paper.pdf?ref=nobsbitcoin.com&quot;&gt;Ledger Recover Technical White Paper&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 17</title>
 		<published>2023-06-13T00:00:00+00:00</published>
