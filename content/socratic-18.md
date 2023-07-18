@@ -21,7 +21,7 @@ aliases = ["socratic/2023/07/18/socratic-18.html"]
 ### [L-402](https://docs.lightning.engineering/the-lightning-network/l402)
 ### [Splicing Phoenix Beta](https://acinq.co/blog/phoenix-splicing-update)
 ### [VLS Beta announcment](https://vls.tech/posts/vls-beta/)
-### [LDK Node](lightningdevkit.org/blog/announcing-ldk-node/)
+### [LDK Node](https://lightningdevkit.org/blog/announcing-ldk-node/)
 
 ## Releases
 ### [Mutiny Wallet Beta](https://blog.mutinywallet.com/mutiny-wallet-open-beta/)
