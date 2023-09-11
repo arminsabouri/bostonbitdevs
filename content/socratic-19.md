@@ -11,9 +11,10 @@ aliases = ["socratic/2023/09/11/socratic-11.html"]
 - No photos, videos, or recordings.
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.
 
-## Nostr + Bitcoin Grants
+## Nostr + Bitcoin Grants + Hackathon-Winners
 ### [Open sats](https://opensats.org/blog/bitcoin-and-nostr-grants-august-2023)
 ### [HRF](https://hrfbounties.org/)
+### [AI + Lightning Hackathon Results](https://bolt.fun/tournaments/ai4all/overview)
 
 ## Side-chains
 ### [Liquid Functionaries are Opensource](https://www.nobsbitcoin.com/liquid-federation-open-sourced-its-functionary-code/)
@@ -28,6 +29,7 @@ aliases = ["socratic/2023/09/11/socratic-11.html"]
 
 ## Lightning
 ### [DoS: Fake Lightning Channels](https://morehouse.github.io/lightning/fake-channel-dos/)
+### [Stable diffusion with lightning payment](https://github.com/sutt/DoorMan)
 
 ## Misc.
 ### [Sad Milk](https://www.nobsbitcoin.com/milk-sad-vulnerability-disclosure/)
