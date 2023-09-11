@@ -19,9 +19,10 @@
 &lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;nostr-bitcoin-grants&quot;&gt;Nostr + Bitcoin Grants&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;nostr-bitcoin-grants-hackathon-winners&quot;&gt;Nostr + Bitcoin Grants + Hackathon-Winners&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;open-sats&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opensats.org&#x2F;blog&#x2F;bitcoin-and-nostr-grants-august-2023&quot;&gt;Open sats&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;hrf&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hrfbounties.org&#x2F;&quot;&gt;HRF&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;ai-lightning-hackathon-results&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bolt.fun&#x2F;tournaments&#x2F;ai4all&#x2F;overview&quot;&gt;AI + Lightning Hackathon Results&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h2 id=&quot;side-chains&quot;&gt;Side-chains&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;liquid-functionaries-are-opensource&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;liquid-federation-open-sourced-its-functionary-code&#x2F;&quot;&gt;Liquid Functionaries are Opensource&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;sentenial-chains&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ursus.camp&#x2F;bitcoin&#x2F;2023&#x2F;08&#x2F;10&#x2F;sidechains.html&quot;&gt;Sentenial chains&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
@@ -33,6 +34,7 @@
 &lt;h3 id=&quot;blinded-2-party-musig2&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-July&#x2F;021792.html&quot;&gt;Blinded 2-party Musig2&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;dos-fake-lightning-channels&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;morehouse.github.io&#x2F;lightning&#x2F;fake-channel-dos&#x2F;&quot;&gt;DoS: Fake Lightning Channels&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;stable-diffusion-with-lightning-payment&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sutt&#x2F;DoorMan&quot;&gt;Stable diffusion with lightning payment&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h2 id=&quot;misc&quot;&gt;Misc.&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;sad-milk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;milk-sad-vulnerability-disclosure&#x2F;&quot;&gt;Sad Milk&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;500k-tx-fee&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;f2pool-to-return-20-btc-to-sender&#x2F;&quot;&gt;500k Tx Fee&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
