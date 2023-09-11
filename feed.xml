@@ -4,8 +4,43 @@
 	<link href="https://www.bostonbitdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.bostonbitdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2023-07-18T00:00:00+00:00</updated>
+	<updated>2023-09-12T00:00:00+00:00</updated>
 	<id>https://www.bostonbitdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 19</title>
+		<published>2023-09-12T00:00:00+00:00</published>
+		<updated>2023-09-12T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-19/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-19/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;nostr-bitcoin-grants&quot;&gt;Nostr + Bitcoin Grants&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;open-sats&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opensats.org&#x2F;blog&#x2F;bitcoin-and-nostr-grants-august-2023&quot;&gt;Open sats&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;hrf&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hrfbounties.org&#x2F;&quot;&gt;HRF&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;side-chains&quot;&gt;Side-chains&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;liquid-functionaries-are-opensource&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;liquid-federation-open-sourced-its-functionary-code&#x2F;&quot;&gt;Liquid Functionaries are Opensource&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;sentenial-chains&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ursus.camp&#x2F;bitcoin&#x2F;2023&#x2F;08&#x2F;10&#x2F;sidechains.html&quot;&gt;Sentenial chains&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;drive-chains&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.truthcoin.info&#x2F;blog&#x2F;drivechain&#x2F;&quot;&gt;Drive chains&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;blinded-collaborative-custody-with-frost&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;nickfarrow&#x2F;4be776782bce0c12cca523cbc203fb9d&#x2F;&quot;&gt;Blinded collaborative custody with FROST&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;bip-324-crypto-merged&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28008&quot;&gt;Bip-324 Crypto Merged&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;musig2-at-bitgo&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitgo.com&#x2F;save-fees-with-musig2-at-bitgo-3248d690f573&quot;&gt;Musig2 at Bitgo&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;blinded-2-party-musig2&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-July&#x2F;021792.html&quot;&gt;Blinded 2-party Musig2&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;dos-fake-lightning-channels&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;morehouse.github.io&#x2F;lightning&#x2F;fake-channel-dos&#x2F;&quot;&gt;DoS: Fake Lightning Channels&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;misc&quot;&gt;Misc.&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;sad-milk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;milk-sad-vulnerability-disclosure&#x2F;&quot;&gt;Sad Milk&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;500k-tx-fee&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;f2pool-to-return-20-btc-to-sender&#x2F;&quot;&gt;500k Tx Fee&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;steal-passwords-through-sound&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy&#x2F;&quot;&gt;Steal passwords through sound&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;frost-notebook&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;FROST-Notebook&quot;&gt;FROST-Notebook&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;introducing-frostsnap&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;frostsnap.com&#x2F;introducing-frostsnap.html&quot;&gt;Introducing Frostsnap&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 18</title>
 		<published>2023-07-18T00:00:00+00:00</published>
