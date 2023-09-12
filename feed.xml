@@ -35,6 +35,8 @@
 &lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;dos-fake-lightning-channels&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;morehouse.github.io&#x2F;lightning&#x2F;fake-channel-dos&#x2F;&quot;&gt;DoS: Fake Lightning Channels&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;stable-diffusion-with-lightning-payment&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sutt&#x2F;DoorMan&quot;&gt;Stable diffusion with lightning payment&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;doppler-a-domain-specific-language-dsl-for-lightning&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tee8z&#x2F;doppler&quot;&gt;Doppler: A Domain-Specific Language (DSL) for Lightning&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;satogram-keysend-to-everyone-on-the-lightning-network&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Satograms&#x2F;Satogram&quot;&gt;Satogram: Keysend to everyone on the lightning network &lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h2 id=&quot;misc&quot;&gt;Misc.&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;sad-milk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;milk-sad-vulnerability-disclosure&#x2F;&quot;&gt;Sad Milk&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;500k-tx-fee&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;f2pool-to-return-20-btc-to-sender&#x2F;&quot;&gt;500k Tx Fee&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
