@@ -30,6 +30,8 @@ aliases = ["socratic/2023/09/11/socratic-11.html"]
 ## Lightning
 ### [DoS: Fake Lightning Channels](https://morehouse.github.io/lightning/fake-channel-dos/)
 ### [Stable diffusion with lightning payment](https://github.com/sutt/DoorMan)
+### [Doppler: A Domain-Specific Language (DSL) for Lightning](https://github.com/tee8z/doppler)
+### [Satogram: Keysend to everyone on the lightning network ](https://github.com/Satograms/Satogram)
 
 ## Misc.
 ### [Sad Milk](https://www.nobsbitcoin.com/milk-sad-vulnerability-disclosure/)
