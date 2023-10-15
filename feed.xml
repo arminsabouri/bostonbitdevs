@@ -46,6 +46,37 @@
 </content>
 	</entry>
 	<entry xml:lang="en">
+		<title>Socratic Seminar 20</title>
+		<published>2023-09-12T00:00:00+00:00</published>
+		<updated>2023-09-12T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-20/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-20/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;op-txhash&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-September&#x2F;021975.html&quot;&gt;Op_txhash&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;trustless-2-way-peg-without-softfork&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-September&#x2F;021948.html&quot;&gt;Trustless 2-way-peg without softfork&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;bip-324-merged&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0324.mediawiki&quot;&gt;Bip-324 Merged!&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;assume-utxo-merged&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jamesob&#x2F;assumeutxo-docs&#x2F;tree&#x2F;2019-04-proposal&#x2F;proposal&quot;&gt;Assume UTXO Merged!&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;minitapscript-port-miniscript-to-tapscript&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;27255&quot;&gt;MiniTapscript: port Miniscript to Tapscript&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;bitvm&quot;&gt;BitVM&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bitvm-1&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitvm.org&#x2F;bitvm.pdf&quot;&gt;BitVM&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;tap-leaf-circuits&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;tapleaf-circuits&quot;&gt;Tap Leaf Circuits&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;sentry-pegin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;bitvm-but-can-it-run-doom&quot;&gt;Sentry Pegin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;dos-fake-lightning-channels&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;morehouse.github.io&#x2F;lightning&#x2F;fake-channel-dos&#x2F;&quot;&gt;DoS: Fake Lightning Channels&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;scaling-lightning-with-simple-covenants&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-September&#x2F;004092.html&quot;&gt;Scaling Lightning With Simple Covenants&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;misc&quot;&gt;Misc.&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;coldcard-v5-2-0&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Coldcard&#x2F;firmware&#x2F;blob&#x2F;master&#x2F;releases&#x2F;ChangeLog.md&quot;&gt;Coldcard V5.2.0&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;utxooracle-py&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;utxo.live&#x2F;oracle&#x2F;&quot;&gt;UTXOOracle.py&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
 		<title>Socratic Seminar 18</title>
 		<published>2023-07-18T00:00:00+00:00</published>
 		<updated>2023-07-18T00:00:00+00:00</updated>
