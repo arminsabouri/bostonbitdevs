@@ -32,3 +32,4 @@ aliases = ["socratic/2023/10/18/socratic-20.html"]
 ## Misc.
 ### [Coldcard V5.2.0](https://github.com/Coldcard/firmware/blob/master/releases/ChangeLog.md)
 ### [UTXOOracle.py](https://utxo.live/oracle/)
+### [Trident Vault Launch](https://x.com/rob1ham/status/1704917235305746439?s=46&t=PtDQpC8qXN6eLrhVrXTVNA)
