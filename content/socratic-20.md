@@ -18,6 +18,7 @@ aliases = ["socratic/2023/10/18/socratic-20.html"]
 ### [Assume UTXO Merged!](https://github.com/jamesob/assumeutxo-docs/tree/2019-04-proposal/proposal)
 ### [MiniTapscript: port Miniscript to Tapscript](https://github.com/bitcoin/bitcoin/pull/27255)
 ### [BIP Musig2 PSBT Fields](https://github.com/achow101/bips/blob/musig2-psbt/bip-musig2-psbt.mediawiki)
+### [Remove Legacy Wallet Planned](https://github.com/bitcoin/bitcoin/issues/20160)
 
 ## BitVM
 ### [BitVM](https://bitvm.org/bitvm.pdf)
@@ -32,3 +33,4 @@ aliases = ["socratic/2023/10/18/socratic-20.html"]
 ### [Coldcard V5.2.0](https://github.com/Coldcard/firmware/blob/master/releases/ChangeLog.md)
 ### [UTXOOracle.py](https://utxo.live/oracle/)
 ### [Trident Vault Launch](https://x.com/rob1ham/status/1704917235305746439?s=46&t=PtDQpC8qXN6eLrhVrXTVNA)
+### [Taproot Assets Released Mainnet](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
