@@ -17,6 +17,7 @@ aliases = ["socratic/2023/10/18/socratic-20.html"]
 ### [Bip-324 Merged!](https://github.com/bitcoin/bips/blob/master/bip-0324.mediawiki)
 ### [Assume UTXO Merged!](https://github.com/jamesob/assumeutxo-docs/tree/2019-04-proposal/proposal)
 ### [MiniTapscript: port Miniscript to Tapscript](https://github.com/bitcoin/bitcoin/pull/27255)
+### [BIP Musig2 PSBT Fields](https://github.com/achow101/bips/blob/musig2-psbt/bip-musig2-psbt.mediawiki)q  
 
 ## BitVM
 ### [BitVM](https://bitvm.org/bitvm.pdf)
