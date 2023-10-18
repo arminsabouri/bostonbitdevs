@@ -26,6 +26,7 @@
 &lt;h3 id=&quot;assume-utxo-merged&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jamesob&#x2F;assumeutxo-docs&#x2F;tree&#x2F;2019-04-proposal&#x2F;proposal&quot;&gt;Assume UTXO Merged!&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;minitapscript-port-miniscript-to-tapscript&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;27255&quot;&gt;MiniTapscript: port Miniscript to Tapscript&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;bip-musig2-psbt-fields&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;achow101&#x2F;bips&#x2F;blob&#x2F;musig2-psbt&#x2F;bip-musig2-psbt.mediawiki&quot;&gt;BIP Musig2 PSBT Fields&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;remove-legacy-wallet-planned&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;20160&quot;&gt;Remove Legacy Wallet Planned&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h2 id=&quot;bitvm&quot;&gt;BitVM&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;bitvm-1&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitvm.org&#x2F;bitvm.pdf&quot;&gt;BitVM&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;tap-leaf-circuits&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;tapleaf-circuits&quot;&gt;Tap Leaf Circuits&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
@@ -37,6 +38,7 @@
 &lt;h3 id=&quot;coldcard-v5-2-0&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Coldcard&#x2F;firmware&#x2F;blob&#x2F;master&#x2F;releases&#x2F;ChangeLog.md&quot;&gt;Coldcard V5.2.0&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;utxooracle-py&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;utxo.live&#x2F;oracle&#x2F;&quot;&gt;UTXOOracle.py&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;h3 id=&quot;trident-vault-launch&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;rob1ham&#x2F;status&#x2F;1704917235305746439?s=46&amp;amp;t=PtDQpC8qXN6eLrhVrXTVNA&quot;&gt;Trident Vault Launch&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;taproot-assets-released-mainnet&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightning.engineering&#x2F;posts&#x2F;2023-10-18-taproot-assets-v0.3&#x2F;&quot;&gt;Taproot Assets Released Mainnet&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
