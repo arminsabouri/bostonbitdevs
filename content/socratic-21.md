@@ -71,12 +71,17 @@ What are the potential impacts of re-activating OP_CAT in Bitcoin? What might it
 ### Software Releases
 
 [Dart DLC](https://github.com/Horus-Org/dart-dlc)
+
 [Frost Dev Kit](https://github.com/FrostDevKit)
+
 [Botanix Labs Launches First EVM-Equivalent Layer 2 Testnet on Bitcoin](https://bitcoinmagazine.com/technical/botanix-labs-launches-first-evm-equivalent-layer-2-testnet-on-bitcoin)
 
 
 ### Misc.
 [BitStream: Decentralized File Hosting Incentivised via Bitcoin Payments](https://robinlinus.com/bitstream.pdf)
+
 [BitcoinJS flag leaves $1B in cryptocurrency exposed](https://twitter.com/bax1337/status/1724534339206033532)
+
 [Future of the bitcoin-dev mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
+
 [A proposal for a “PSBT for descriptors” format](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022184.html)
