@@ -22,20 +22,16 @@
 &lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;how-should-standards-be-maintained&quot;&gt;How Should Standards be Maintained?&lt;&#x2F;h3&gt;
 &lt;p&gt;Coinkite proposes &lt;a href=&quot;https:&#x2F;&#x2F;bbqr.org&quot;&gt;BBQR&lt;&#x2F;a&gt;, a new way to do animated QR codes for Bitcoin, particulary Partially Signed Bitcoin Transactions.&lt;&#x2F;p&gt;
-&lt;p&gt;Currently the &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;christophera&#x2F;status&#x2F;1646273024650539008?s=46&amp;amp;t=PtDQpC8qXN6eLrhVrXTVNA&quot;&gt;Blockchain Commons UR standard&lt;&#x2F;a&gt; is the most widely used way to do animated QR codes ]&lt;&#x2F;p&gt;
+&lt;p&gt;Currently the &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;christophera&#x2F;status&#x2F;1646273024650539008?s=46&amp;amp;t=PtDQpC8qXN6eLrhVrXTVNA&quot;&gt;Blockchain Commons UR standard&lt;&#x2F;a&gt; is the most widely used way to do animated QR codes&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;examine-the-standard&quot;&gt;Examine the Standard&lt;&#x2F;h4&gt;
 &lt;p&gt;What are the potential benefits and challenges of Coinkite&#x27;s new method for animated QR codes in Bitcoin transactions? How does it compare to the current standard by Blockchain Commons?&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;innovation-vs-standardization&quot;&gt;Innovation vs. Standardization&lt;&#x2F;h4&gt;
 &lt;p&gt;In the context of evolving technologies like animated QR codes, how should the balance between innovation and the need for standardization be maintained?&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;what-to-do-about-mining-pool-censorship&quot;&gt;What to do about mining pool censorship?&lt;&#x2F;h3&gt;
-&lt;p&gt;Missing sanctioned transactions detected
-https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;08-missing-sanctioned-transactions&#x2F;?t&lt;&#x2F;p&gt;
-&lt;p&gt;Chun Wang (F2Pool cofounder) admits (in a since-deleted tweet) F2Pool is filtering sanctioned transactions
-https:&#x2F;&#x2F;twitter.com&#x2F;OrangeSurfBTC&#x2F;status&#x2F;1727228792056471669&lt;&#x2F;p&gt;
-&lt;p&gt;Wang later announced (in a since-deleted tweet) that F2Pool is disabling the filter
-https:&#x2F;&#x2F;twitter.com&#x2F;ChrisBlec&#x2F;status&#x2F;1727380505635795370&lt;&#x2F;p&gt;
-&lt;p&gt;How do we prevent this kind of filtering from effectively excluding transactions from the blockchain? Decentralized block building or bust!
-https:&#x2F;&#x2F;twitter.com&#x2F;lightcoin&#x2F;status&#x2F;1728110191907074514&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;08-missing-sanctioned-transactions&#x2F;?t&quot;&gt;Missing sanctioned transactions detected&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;OrangeSurfBTC&#x2F;status&#x2F;1727228792056471669&quot;&gt;Chun Wang (F2Pool cofounder) admits (in a since-deleted tweet) F2Pool is filtering sanctioned transactions&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;ChrisBlec&#x2F;status&#x2F;1727380505635795370&quot;&gt;Wang later announced (in a since-deleted tweet) that F2Pool is disabling the filter&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lightcoin&#x2F;status&#x2F;1728110191907074514&quot;&gt;How do we prevent this kind of filtering from effectively excluding transactions from the blockchain? Decentralized block building or bust!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;[Block CEO Jack Dorsey Leads $6.2 Million Investment Round In &lt;em&gt;Decentralized&lt;&#x2F;em&gt; Bitcoin Mining Pool](Block CEO Jack Dorsey Leads $6.2 Million Investment Round In Decentralized Bitcoin Mining Pool) (emphasis mine)&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;censorship-in-mining-pools&quot;&gt;Censorship in Mining Pools&lt;&#x2F;h4&gt;
 &lt;p&gt;What are the implications of mining pools like F2Pool filtering sanctioned transactions? Is this a form of necessary regulation or harmful censorship?&lt;&#x2F;p&gt;
@@ -50,7 +46,11 @@ https:&#x2F;&#x2F;twitter.com&#x2F;lightcoin&#x2F;status&#x2F;172811019190707451
 &lt;h4 id=&quot;op-cat-re-activation-proposal&quot;&gt;OP_CAT Re-activation Proposal&lt;&#x2F;h4&gt;
 &lt;p&gt;What are the potential impacts of re-activating OP_CAT in Bitcoin? What might it enable, how, and what harms might come in relation to the stability of the Bitcoin network? How does this fit in with other transaction introspection&#x2F;covenant&#x2F;contract proposals?&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;software-releases&quot;&gt;Software Releases&lt;&#x2F;h3&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;botanix-labs-launches-first-evm-equivalent-layer-2-testnet-on-bitcoin&quot;&gt;Botanix Labs Launches First EVM-Equivalent Layer 2 Testnet on Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Horus-Org&#x2F;dart-dlc&quot;&gt;Dart DLC&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;FrostDevKit&quot;&gt;Frost Dev Kit&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;botanix-labs-launches-first-evm-equivalent-layer-2-testnet-on-bitcoin&quot;&gt;Botanix Labs Launches First EVM-Equivalent Layer 2 Testnet on Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;misc&quot;&gt;Misc.&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;robinlinus.com&#x2F;bitstream.pdf&quot;&gt;bitstream&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
