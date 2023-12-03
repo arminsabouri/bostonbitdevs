@@ -4,8 +4,55 @@
 	<link href="https://www.bostonbitdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.bostonbitdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2023-10-18T00:00:00+00:00</updated>
+	<updated>2023-12-04T00:00:00+00:00</updated>
 	<id>https://www.bostonbitdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 21</title>
+		<published>2023-12-04T00:00:00+00:00</published>
+		<updated>2023-12-04T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-21/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-21/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;how-should-standards-be-maintained&quot;&gt;How Should Standards be Maintained?&lt;&#x2F;h3&gt;
+&lt;p&gt;Coinkite proposes &lt;a href=&quot;https:&#x2F;&#x2F;bbqr.org&quot;&gt;BBQR&lt;&#x2F;a&gt;, a new way to do animated QR codes for Bitcoin, particulary Partially Signed Bitcoin Transactions.&lt;&#x2F;p&gt;
+&lt;p&gt;Currently the &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;christophera&#x2F;status&#x2F;1646273024650539008?s=46&amp;amp;t=PtDQpC8qXN6eLrhVrXTVNA&quot;&gt;Blockchain Commons UR standard&lt;&#x2F;a&gt; is the most widely used way to do animated QR codes ]&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;examine-the-standard&quot;&gt;Examine the Standard&lt;&#x2F;h4&gt;
+&lt;p&gt;What are the potential benefits and challenges of Coinkite&#x27;s new method for animated QR codes in Bitcoin transactions? How does it compare to the current standard by Blockchain Commons?&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;innovation-vs-standardization&quot;&gt;Innovation vs. Standardization&lt;&#x2F;h4&gt;
+&lt;p&gt;In the context of evolving technologies like animated QR codes, how should the balance between innovation and the need for standardization be maintained?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;what-to-do-about-mining-pool-censorship&quot;&gt;What to do about mining pool censorship?&lt;&#x2F;h3&gt;
+&lt;p&gt;Missing sanctioned transactions detected
+https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;08-missing-sanctioned-transactions&#x2F;?t&lt;&#x2F;p&gt;
+&lt;p&gt;Chun Wang (F2Pool cofounder) admits (in a since-deleted tweet) F2Pool is filtering sanctioned transactions
+https:&#x2F;&#x2F;twitter.com&#x2F;OrangeSurfBTC&#x2F;status&#x2F;1727228792056471669&lt;&#x2F;p&gt;
+&lt;p&gt;Wang later announced (in a since-deleted tweet) that F2Pool is disabling the filter
+https:&#x2F;&#x2F;twitter.com&#x2F;ChrisBlec&#x2F;status&#x2F;1727380505635795370&lt;&#x2F;p&gt;
+&lt;p&gt;How do we prevent this kind of filtering from effectively excluding transactions from the blockchain? Decentralized block building or bust!
+https:&#x2F;&#x2F;twitter.com&#x2F;lightcoin&#x2F;status&#x2F;1728110191907074514&lt;&#x2F;p&gt;
+&lt;p&gt;[Block CEO Jack Dorsey Leads $6.2 Million Investment Round In &lt;em&gt;Decentralized&lt;&#x2F;em&gt; Bitcoin Mining Pool](Block CEO Jack Dorsey Leads $6.2 Million Investment Round In Decentralized Bitcoin Mining Pool) (emphasis mine)&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;censorship-in-mining-pools&quot;&gt;Censorship in Mining Pools&lt;&#x2F;h4&gt;
+&lt;p&gt;What are the implications of mining pools like F2Pool filtering sanctioned transactions? Is this a form of necessary regulation or harmful censorship?&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;decentralized-block-building&quot;&gt;Decentralized Block Building&lt;&#x2F;h4&gt;
+&lt;p&gt;How can decentralized block building prevent filtering and censorship in blockchain transactions? What are the potential drawbacks of this approach?&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;the-role-of-a-pool&quot;&gt;The Role of a Pool&lt;&#x2F;h4&gt;
+&lt;p&gt;Considering Jack Dorsey&#x27;s investment in a decentralized Bitcoin mining pool, how does financial backing influence the decentralization of cryptocurrency mining? How easily can individual miners choose pools?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;activating-new-bitcoin-script-feaaturs&quot;&gt;Activating new Bitcoin Script Feaaturs&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EthanHeilman&#x2F;op_cat_draft&#x2F;blob&#x2F;main&#x2F;cat.mediawiki&quot;&gt;OP_CAT Re-activation Proposed by Boston Developers Ethan Heilman and Armin Sabouri&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;10&#x2F;25&#x2F;&quot;&gt;Optech Summary&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;pull&#x2F;39#pullrequestreview-1746365548&quot;&gt;Bitcoin Inquisition Activation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;op-cat-re-activation-proposal&quot;&gt;OP_CAT Re-activation Proposal&lt;&#x2F;h4&gt;
+&lt;p&gt;What are the potential impacts of re-activating OP_CAT in Bitcoin? What might it enable, how, and what harms might come in relation to the stability of the Bitcoin network? How does this fit in with other transaction introspection&#x2F;covenant&#x2F;contract proposals?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;software-releases&quot;&gt;Software Releases&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;botanix-labs-launches-first-evm-equivalent-layer-2-testnet-on-bitcoin&quot;&gt;Botanix Labs Launches First EVM-Equivalent Layer 2 Testnet on Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 20</title>
 		<published>2023-10-18T00:00:00+00:00</published>
