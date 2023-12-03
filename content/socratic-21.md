@@ -73,4 +73,10 @@ What are the potential impacts of re-activating OP_CAT in Bitcoin? What might it
 
 ### Software Releases
 
+[Dart DLC](https://github.com/Horus-Org/dart-dlc)
+[Frost Dev Kit](https://github.com/FrostDevKit)
 [Botanix Labs Launches First EVM-Equivalent Layer 2 Testnet on Bitcoin](https://bitcoinmagazine.com/technical/botanix-labs-launches-first-evm-equivalent-layer-2-testnet-on-bitcoin)
+
+
+### Misc.
+[bitstream](https://robinlinus.com/bitstream.pdf)
