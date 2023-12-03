@@ -76,4 +76,7 @@ What are the potential impacts of re-activating OP_CAT in Bitcoin? What might it
 
 
 ### Misc.
-[bitstream](https://robinlinus.com/bitstream.pdf)
+[BitStream: Decentralized File Hosting Incentivised via Bitcoin Payments](https://robinlinus.com/bitstream.pdf)
+[BitcoinJS flag leaves $1B in cryptocurrency exposed](https://twitter.com/bax1337/status/1724534339206033532)
+[Future of the bitcoin-dev mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
+[A proposal for a “PSBT for descriptors” format](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022184.html)
