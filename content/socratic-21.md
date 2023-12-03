@@ -60,7 +60,7 @@ Considering Jack Dorsey's investment in a decentralized Bitcoin mining pool, how
 
 ### Activating new Bitcoin Script Feaaturs
 
-[OP_CAT Re-activation Proposed by Boston Developers Ethan Heilman and Armin Sabuori](https://github.com/EthanHeilman/op_cat_draft/blob/main/cat.mediawiki)
+[OP_CAT Re-activation Proposed by Boston Developers Ethan Heilman and Armin Sabouri](https://github.com/EthanHeilman/op_cat_draft/blob/main/cat.mediawiki)
 
 [Optech Summary](https://bitcoinops.org/en/newsletters/2023/10/25/)
 
