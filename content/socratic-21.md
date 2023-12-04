@@ -69,11 +69,6 @@ Considering Jack Dorsey's investment in a decentralized Bitcoin mining pool, how
 
 What are the potential impacts of re-activating OP_CAT in Bitcoin? What might it enable, how, and what harms might come in relation to the stability of the Bitcoin network? How does this fit in with other transaction introspection/covenant/contract proposals?
 
-
-### Is Bitcoin Unstable without a Block Reward?
-
-New research on undercutting
-
 ### Software Releases
 
 [Dart DLC](https://github.com/Horus-Org/dart-dlc)
