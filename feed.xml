@@ -46,8 +46,6 @@
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;pull&#x2F;39#pullrequestreview-1746365548&quot;&gt;Bitcoin Inquisition Activation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;op-cat-re-activation-proposal&quot;&gt;OP_CAT Re-activation Proposal&lt;&#x2F;h4&gt;
 &lt;p&gt;What are the potential impacts of re-activating OP_CAT in Bitcoin? What might it enable, how, and what harms might come in relation to the stability of the Bitcoin network? How does this fit in with other transaction introspection&#x2F;covenant&#x2F;contract proposals?&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;is-bitcoin-unstable-without-a-block-reward&quot;&gt;Is Bitcoin Unstable without a Block Reward?&lt;&#x2F;h3&gt;
-&lt;p&gt;New research on undercutting&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;software-releases&quot;&gt;Software Releases&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Horus-Org&#x2F;dart-dlc&quot;&gt;Dart DLC&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;FrostDevKit&quot;&gt;Frost Dev Kit&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
