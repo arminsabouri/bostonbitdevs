@@ -39,8 +39,9 @@ https://twitter.com/OrangeSurfBTC/status/1727228792056471669)
 [How do we prevent this kind of filtering from effectively excluding transactions from the blockchain? Decentralized block building or bust!](https://twitter.com/lightcoin/status/1728110191907074514)
 
 
-[Block CEO Jack Dorsey Leads $6.2 Million Investment Round In *Decentralized* Bitcoin Mining Pool](Block CEO Jack Dorsey Leads $6.2 Million Investment Round In Decentralized Bitcoin Mining Pool) (emphasis mine)
+[Block CEO Jack Dorsey Leads $6.2 Million Investment Round In *Decentralized* Bitcoin Mining Pool](https://bitcoinmagazine.com/business/ocean-jack-dorsey-funds-bitcoin-mining-pool) (emphasis mine)
 
+[DEMAND Launches The First Stratum V2 Bitcoin Mining Pool](https://www.nobsbitcoin.com/demand-statum-v2-mining-pool/)
 
 #### Censorship in Mining Pools
 
@@ -55,7 +56,7 @@ How can decentralized block building prevent filtering and censorship in blockch
 
 Considering Jack Dorsey's investment in a decentralized Bitcoin mining pool, how does financial backing influence the decentralization of cryptocurrency mining? How easily can individual miners choose pools?
 
-### Activating new Bitcoin Script Feaaturs
+### Activating new Bitcoin Script Features
 
 [OP_CAT Re-activation Proposed by Boston Developers Ethan Heilman and Armin Sabouri](https://github.com/EthanHeilman/op_cat_draft/blob/main/cat.mediawiki)
 
@@ -67,6 +68,11 @@ Considering Jack Dorsey's investment in a decentralized Bitcoin mining pool, how
 #### OP_CAT Re-activation Proposal
 
 What are the potential impacts of re-activating OP_CAT in Bitcoin? What might it enable, how, and what harms might come in relation to the stability of the Bitcoin network? How does this fit in with other transaction introspection/covenant/contract proposals?
+
+
+### Is Bitcoin Unstable without a Block Reward?
+
+New research on undercutting
 
 ### Software Releases
 
