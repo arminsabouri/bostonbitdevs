@@ -86,3 +86,5 @@ What are the potential impacts of re-activating OP_CAT in Bitcoin? What might it
 [Future of the bitcoin-dev mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
 
 [A proposal for a “PSBT for descriptors” format](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022184.html)
+
+[Attacker managed to steal almost 56 BTC (while paying 83.7 BTC fee](https://twitter.com/mononautical/status/1728946778798793126)
