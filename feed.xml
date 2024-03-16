@@ -4,15 +4,55 @@
 	<link href="https://www.bostonbitdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.bostonbitdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2023-12-04T00:00:00+00:00</updated>
+	<updated>2024-03-18T00:00:00+00:00</updated>
 	<id>https://www.bostonbitdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 22</title>
+		<published>2024-03-18T00:00:00+00:00</published>
+		<updated>2024-03-18T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-22/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-22/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping-broom&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;&#x2F;h2&gt;
+&lt;h5 id=&quot;how-should-the-bips-repo-be-maintained&quot;&gt;How Should the Bips Repo be Maintained?&lt;&#x2F;h5&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022289.html&quot;&gt;BIP Repo Friction&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2021-April&#x2F;018859.html&quot;&gt;Purpose of BIPs&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h5 id=&quot;what-are-the-biana-numbers&quot;&gt;What are the Biana Numbers?&lt;&#x2F;h5&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;binana&quot;&gt;Biana Numbers&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h5 id=&quot;where-does-the-bips-repo-go-from-here&quot;&gt;Where does the bips repo go from here?&lt;&#x2F;h5&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;cuMZ77KEQAA&quot;&gt;New Editors&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-February&#x2F;022327.html&quot;&gt;Mailing List Migration&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;gitlab-backups-for-bitcoin-core-repository&#x2F;624&quot;&gt;Gitlab backups for Bitcoin Core?&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;basic-vault-prototype-using-op-cat&#x2F;576&quot;&gt;OP_CAT Vault Prototype&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1551&quot;&gt;Human Readable Names into Payment Info&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;lnhance-bips-and-implementation&#x2F;376&#x2F;16&quot;&gt;LnHance&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;on-consensus-changes-in-bitcoin-2024&#x2F;334&quot;&gt;On consensus changes in bitcoin 2024&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;software-releases&quot;&gt;Software Releases&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;afilini&#x2F;status&#x2F;1766085500106920268&quot;&gt;22 HWW - Hardware wallet designed for mobile users&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TwentyTwoHW&#x2F;portal-software&quot;&gt;source code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitkey.build&#x2F;sharing-the-code-behind-bitkey&quot;&gt;Bitkey Launch&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitkey.build&#x2F;how-the-wallet-works&#x2F;&quot;&gt;How Bitkey Works&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mercurylayer.com&#x2F;&quot;&gt;Mercury layer&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;ir.mara.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1344&#x2F;marathon-digital-holdings-introduces-anduro-a-new&quot;&gt;marathon layer 2&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 21</title>
 		<published>2023-12-04T00:00:00+00:00</published>
 		<updated>2023-12-04T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-21/" type="text/html"/>
 		<id>https://www.bostonbitdevs.org/socratic-21/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;housekeeping-broom&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -55,6 +95,7 @@
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;bax1337&#x2F;status&#x2F;1724534339206033532&quot;&gt;BitcoinJS flag leaves $1B in cryptocurrency exposed&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-November&#x2F;022134.html&quot;&gt;Future of the bitcoin-dev mailing list&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-November&#x2F;022184.html&quot;&gt;A proposal for a “PSBT for descriptors” format&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;walletofsatoshi&#x2F;status&#x2F;1727937085741678679&quot;&gt;Wallet of Satoshi shuts down to US users&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;mononautical&#x2F;status&#x2F;1728946778798793126&quot;&gt;Attacker managed to steal almost 56 BTC (while paying 83.7 BTC fee&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
@@ -64,7 +105,7 @@
 		<updated>2023-10-18T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-20/" type="text/html"/>
 		<id>https://www.bostonbitdevs.org/socratic-20/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;housekeeping-broom&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -99,7 +140,7 @@
 		<updated>2023-09-12T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-19/" type="text/html"/>
 		<id>https://www.bostonbitdevs.org/socratic-19/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;housekeeping-broom&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -138,7 +179,7 @@
 		<updated>2023-07-18T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-18/" type="text/html"/>
 		<id>https://www.bostonbitdevs.org/socratic-18/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;housekeeping-broom&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -173,7 +214,7 @@
 		<updated>2023-06-13T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-17/" type="text/html"/>
 		<id>https://www.bostonbitdevs.org/socratic-17/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;housekeeping-broom&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -207,7 +248,7 @@
 		<updated>2023-05-25T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-16/" type="text/html"/>
 		<id>https://www.bostonbitdevs.org/socratic-16/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;housekeeping-broom&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -233,7 +274,7 @@
 		<updated>2023-04-20T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-15/" type="text/html"/>
 		<id>https://www.bostonbitdevs.org/socratic-15/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;housekeeping-broom&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
