@@ -15,6 +15,7 @@ aliases = ["socratic/2024/03/18/socratic-22.html"]
 
 ##### How Should the Bips Repo be Maintained?
 [BIP Repo Friction](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022289.html)
+
 [Purpose of BIPs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-April/018859.html)
 ##### What are the Biana Numbers?
 [Biana Numbers](https://github.com/bitcoin-inquisition/binana)
