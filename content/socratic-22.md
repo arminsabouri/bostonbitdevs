@@ -11,7 +11,7 @@ aliases = ["socratic/2024/03/18/socratic-22.html"]
 - No photos, videos, or recordings.
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.
 
-## Bitcoin
+## Topics
 
 ##### How Should the Bips Repo be Maintained?
 [BIP Repo Friction](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022289.html)
@@ -33,6 +33,9 @@ aliases = ["socratic/2024/03/18/socratic-22.html"]
 [LnHance](https://delvingbitcoin.org/t/lnhance-bips-and-implementation/376/16)
 
 [On consensus changes in bitcoin 2024](https://delvingbitcoin.org/t/on-consensus-changes-in-bitcoin-2024/334)
+
+[Citrea Rollup Announcement](https://docs.citrea.xyz/)
+* [BitVM Groth16 Verifier Toolkit](https://github.com/chainwayxyz/bitvm-zk-verifier)
 
 ### Software Releases
 [22 HWW - Hardware wallet designed for mobile users](https://x.com/afilini/status/1766085500106920268)
