@@ -46,4 +46,4 @@ aliases = ["socratic/2024/03/18/socratic-22.html"]
 
 [Mercury layer](https://mercurylayer.com/)
 
-[marathon layer 2](https://ir.mara.com/news-events/press-releases/detail/1344/marathon-digital-holdings-introduces-anduro-a-new)
+[Marathon layer 2](https://ir.mara.com/news-events/press-releases/detail/1344/marathon-digital-holdings-introduces-anduro-a-new)
