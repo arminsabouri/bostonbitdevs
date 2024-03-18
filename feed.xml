@@ -19,10 +19,10 @@
 &lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h2&gt;
 &lt;h5 id=&quot;how-should-the-bips-repo-be-maintained&quot;&gt;How Should the Bips Repo be Maintained?&lt;&#x2F;h5&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022289.html&quot;&gt;BIP Repo Friction&lt;&#x2F;a&gt;
-&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2021-April&#x2F;018859.html&quot;&gt;Purpose of BIPs&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022289.html&quot;&gt;BIP Repo Friction&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2021-April&#x2F;018859.html&quot;&gt;Purpose of BIPs&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h5 id=&quot;what-are-the-biana-numbers&quot;&gt;What are the Biana Numbers?&lt;&#x2F;h5&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;binana&quot;&gt;Biana Numbers&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h5 id=&quot;where-does-the-bips-repo-go-from-here&quot;&gt;Where does the bips repo go from here?&lt;&#x2F;h5&gt;
@@ -33,6 +33,10 @@
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1551&quot;&gt;Human Readable Names into Payment Info&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;lnhance-bips-and-implementation&#x2F;376&#x2F;16&quot;&gt;LnHance&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;on-consensus-changes-in-bitcoin-2024&#x2F;334&quot;&gt;On consensus changes in bitcoin 2024&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.citrea.xyz&#x2F;&quot;&gt;Citrea Rollup Announcement&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chainwayxyz&#x2F;bitvm-zk-verifier&quot;&gt;BitVM Groth16 Verifier Toolkit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;software-releases&quot;&gt;Software Releases&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;afilini&#x2F;status&#x2F;1766085500106920268&quot;&gt;22 HWW - Hardware wallet designed for mobile users&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
