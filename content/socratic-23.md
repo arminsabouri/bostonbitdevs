@@ -32,6 +32,7 @@ aliases = ["socratic/2024/04/18/socratic-23.html"]
 
 [Great Consensus Cleanup Revival](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710)
 
+[HRF CISA Research Fellowship](https://hrf.org/hrfcisaresearchfellowship)
 
 ### Software Releases
 [v27.0rc Bitcoin Libre](https://github.com/petertodd/bitcoin/tree/libre-relay-v27.0rc1)
