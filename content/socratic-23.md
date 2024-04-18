@@ -26,13 +26,13 @@ aliases = ["socratic/2024/04/18/socratic-23.html"]
 
 [Inscriptionless Inscriptions](https://delvingbitcoin.org/t/inscriptionless-inscriptions/785)
 
-[Hedgehog: A protocol for asynchronous layer two bitcoin payments](https://stacker.news/items/481321)
-
 [DSL for experimenting with contracts](https://delvingbitcoin.org/t/dsl-for-experimenting-with-contracts/748/1)
 
 [Great Consensus Cleanup Revival](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710)
 
 [HRF CISA Research Fellowship](https://hrf.org/hrfcisaresearchfellowship)
+
+[CatVM](https://catvm.org/catvm.pdf)
 
 ### Software Releases
 [v27.0rc Bitcoin Libre](https://github.com/petertodd/bitcoin/tree/libre-relay-v27.0rc1)
