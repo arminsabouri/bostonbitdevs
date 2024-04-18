@@ -12,6 +12,7 @@ aliases = ["socratic/2024/04/18/socratic-23.html"]
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.
 
 ## Topics
+
 [The Future of Bitcoin Testnet](https://groups.google.com/g/bitcoindev/c/9bL00vRj7OU)
 
 [BIP Editors Updates](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA)
@@ -34,5 +35,8 @@ aliases = ["socratic/2024/04/18/socratic-23.html"]
 
 [CatVM](https://catvm.org/catvm.pdf)
 
+[LDK Lightning Liquitity](https://lightningdevkit.org/blog/unleashing-liquidity-on-the-lightning-network-with-lightning-liquidity/)
+
 ### Software Releases
+
 [v27.0rc Bitcoin Libre](https://github.com/petertodd/bitcoin/tree/libre-relay-v27.0rc1)
