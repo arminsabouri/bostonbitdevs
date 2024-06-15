@@ -21,8 +21,6 @@ aliases = ["socratic/2024/06/24/socratic-24.html"]
 
 [Overlapping softfork proposals](https://delvingbitcoin.org/t/64-bit-arithmetic-soft-fork/397/49)
 
-[Wasabi Coordinator Shutting Down](https://x.com/wasabiwallet/status/1786083838415769673)
-
 [CISA research](https://cisaresearch.org/)
 
 [Risk analysis framework for bitcoin L2s and sidechains](https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains/933)
@@ -30,6 +28,19 @@ aliases = ["socratic/2024/06/24/socratic-24.html"]
 [How to build a trustless two-way BTC peg](https://github.com/alpenlabs/Technical-Whitepaper/blob/main/whitepaper_v085.pdf)
 
 [Fed Up Cov](https://rubin.io/bitcoin/2024/05/29/fed-up-covenants/)
+
+[Wasabi Coordinator Shutting Down](https://x.com/wasabiwallet/status/1786083838415769673)
+
+- [New Coordinators Spawning](https://x.com/nopara73/status/1797232582003691699)
+- [FreeSabi bot tracking wabisabi coordinator liquidity](https://x.com/FreeSabiBot)
+
+[Hedgehog - A protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
+
+[[bitcoin-dev] New transaction policies (nVersion=3) for contracting protocols](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html)
+
+- [Activation to Core](https://github.com/bitcoin/bitcoin/pull/29496)
+- [Optech topic list](https://bitcoinops.org/en/topics/version-3-transaction-relay/)
+- [BIP-431](https://github.com/bitcoin/bips/blob/master/bip-0431.mediawiki)
 
 ### Software Releases
 
