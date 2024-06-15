@@ -4,8 +4,46 @@
 	<link href="https://www.bostonbitdevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.bostonbitdevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2024-04-18T00:00:00+00:00</updated>
+	<updated>2024-06-24T00:00:00+00:00</updated>
 	<id>https://www.bostonbitdevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 24</title>
+		<published>2024-06-24T00:00:00+00:00</published>
+		<updated>2024-06-24T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.bostonbitdevs.org/socratic-24/" type="text/html"/>
+		<id>https://www.bostonbitdevs.org/socratic-24/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping-broom&quot;&gt;Housekeeping 🧹&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;about#socratic-seminars&quot;&gt;What is a Socratic Seminar?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0xBEEFCAF3&#x2F;bostonbitdevs&#x2F;issues&#x2F;new&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, or recordings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustyrussell&#x2F;bips&#x2F;blob&#x2F;guilt&#x2F;varops&#x2F;bip-unknown-var-budget-script.mediawiki&quot;&gt;Great Script Restoration&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cryptoquick&#x2F;bips&#x2F;blob&#x2F;p2qrh&#x2F;bip-p2qrh.mediawiki&quot;&gt;Quantum Resistant Addresses&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;64-bit-arithmetic-soft-fork&#x2F;397&#x2F;49&quot;&gt;64 bit arithmetic soft fork&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;64-bit-arithmetic-soft-fork&#x2F;397&#x2F;49&quot;&gt;Overlapping softfork proposals&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;cisaresearch.org&#x2F;&quot;&gt;CISA research&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;proposed-risk-framework-for-bitcoin-l2s-and-sidechains&#x2F;933&quot;&gt;Risk analysis framework for bitcoin L2s and sidechains&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;alpenlabs&#x2F;Technical-Whitepaper&#x2F;blob&#x2F;main&#x2F;whitepaper_v085.pdf&quot;&gt;How to build a trustless two-way BTC peg&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rubin.io&#x2F;bitcoin&#x2F;2024&#x2F;05&#x2F;29&#x2F;fed-up-covenants&#x2F;&quot;&gt;Fed Up Cov&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;wasabiwallet&#x2F;status&#x2F;1786083838415769673&quot;&gt;Wasabi Coordinator Shutting Down&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;nopara73&#x2F;status&#x2F;1797232582003691699&quot;&gt;New Coordinators Spawning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;FreeSabiBot&quot;&gt;FreeSabi bot tracking wabisabi coordinator liquidity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;hedgehog&quot;&gt;Hedgehog - A protocol for improved layer two bitcoin payments&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-September&#x2F;020937.html&quot;&gt;[bitcoin-dev] New transaction policies (nVersion=3) for contracting protocols&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29496&quot;&gt;Activation to Core&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;topics&#x2F;version-3-transaction-relay&#x2F;&quot;&gt;Optech topic list&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0431.mediawiki&quot;&gt;BIP-431&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;software-releases&quot;&gt;Software Releases&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;5GyV9af9lv4&quot;&gt;Utreexo Beta Release&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 23</title>
 		<published>2024-04-18T00:00:00+00:00</published>
