@@ -25,7 +25,7 @@ aliases = ["socratic/2024/06/24/socratic-24.html"]
 
 [Risk analysis framework for bitcoin L2s and sidechains](https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains/933)
 
-[How to build a trustless two-way BTC peg](https://github.com/alpenlabs/Technical-Whitepaper/blob/main/whitepaper_v085.pdf)
+[ZK-Rollups On Bitcoin by Alpen Labs](https://github.com/alpenlabs/Technical-Whitepaper/blob/main/whitepaper_v085.pdf)
 
 [Fed Up Cov](https://rubin.io/bitcoin/2024/05/29/fed-up-covenants/)
 
