@@ -36,7 +36,7 @@ aliases = ["socratic/2024/06/24/socratic-24.html"]
 
 [Hedgehog - A protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
 
-[[bitcoin-dev] New transaction policies (nVersion=3) for contracting protocols](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html)
+[V3 transactions updates](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html)
 
 - [Activation to Core](https://github.com/bitcoin/bitcoin/pull/29496)
 - [Optech topic list](https://bitcoinops.org/en/topics/version-3-transaction-relay/)
