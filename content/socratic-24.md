@@ -15,6 +15,8 @@ aliases = ["socratic/2024/06/24/socratic-24.html"]
 
 [Great Script Restoration](https://github.com/rustyrussell/bips/blob/guilt/varops/bip-unknown-var-budget-script.mediawiki)
 
+[Silent Payments Light Client](https://delvingbitcoin.org/t/silent-payments-light-client-protocol/891)
+
 [Quantum Resistant Addresses](https://github.com/cryptoquick/bips/blob/p2qrh/bip-p2qrh.mediawiki)
 
 [64 bit arithmetic soft fork](https://delvingbitcoin.org/t/64-bit-arithmetic-soft-fork/397/49)
