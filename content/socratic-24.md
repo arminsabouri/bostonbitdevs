@@ -21,7 +21,7 @@ aliases = ["socratic/2024/06/24/socratic-24.html"]
 
 [64 bit arithmetic soft fork](https://delvingbitcoin.org/t/64-bit-arithmetic-soft-fork/397/49)
 
-[Overlapping softfork proposals](https://delvingbitcoin.org/t/64-bit-arithmetic-soft-fork/397/49)
+[Overlapping softfork proposals](https://delvingbitcoin.org/t/mutual-exclusiveness-of-op-codes/890)
 
 [CISA research](https://cisaresearch.org/)
 
