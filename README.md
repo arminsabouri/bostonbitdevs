@@ -34,6 +34,8 @@ This project uses [just](https://github.com/casey/just), which can be installed 
 
 `cargo install just`
 
+You may also need to install [zola](https://www.getzola.org/documentation/getting-started/installation/)
+
 After that, you can run things locally with:
 
 `just serve`
