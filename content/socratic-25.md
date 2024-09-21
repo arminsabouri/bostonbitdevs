@@ -21,10 +21,29 @@ aliases = ["socratic/2024/09/24/socratic-25.html"]
 
 [Silvergate Executive confirms they were pressured out of business, Nic Carter describes it as "murder, not suicide"](https://x.com/nic__carter/status/1836858969241100776)
 
+[Dark Skippy](https://darkskippy.com/)
+
+[Efficient Multi input grinding for CAT covenants](https://delvingbitcoin.org/t/efficient-multi-input-transaction-grinding-for-op-cat-based-bitcoin-covenants/1080)
+
+[Flag Day Activation based on nlocktime signaling](https://delvingbitcoin.org/t/bip-draft-flag-day-activation-based-on-nlocktime-signaling/1078)
+
+[Intel SGX Fuse Key0 compromised](https://x.com/_markel___/status/1828112469010596347)
+
+
+## Research
+
 [CSV shield](https://github.com/ShieldedCSV/ShieldedCSV/tree/main?tab=readme-ov-file)
 
-[Dark Skippy](https://darkskippy.com/)
+[Optimizing Big Integer Multiplication on Bitcoin: Introducing w-windowed Approach](https://eprint.iacr.org/2024/1236)
+
+[Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)](https://eprint.iacr.org/2024/1299.pdf)
 
 
 ## Software Releases
+
 [Proton Mail Launches Wallet](https://proton.me/blog/proton-wallet-launch)
+
+[Testnet4 including PoW difficulty adjustment fix](https://github.com/bitcoin/bitcoin/pull/29775)
+
+* [Testnet4 Bip](https://github.com/bitcoin/bips/pull/1601)
+
