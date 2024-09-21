@@ -2,8 +2,9 @@ title = "Boston BitDevs"
 base_url = "https://www.bostonbitdevs.org"
 compile_sass = false
 build_search_index = false
-generate_feed = true
-feed_filename = "feed.xml"
+# no longer used in the latest zola
+# generate_feed = true
+# feed_filename = "feed.xml"
 
 [markdown]
 highlight_code = false
