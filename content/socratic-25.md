@@ -12,7 +12,7 @@ aliases = ["socratic/2024/09/24/socratic-25.html"]
 
 ## Topics
 
-[Fee spike due to babylon fee spike](https://x.com/mononautical/status/1826604180251050388?t=mJWR8rmMlzMMmcwi7M7l6Q)
+[Fee spike due to babylon launch](https://x.com/mononautical/status/1826604180251050388?t=mJWR8rmMlzMMmcwi7M7l6Q)
 
 Bitcoin companies shutting down
 
@@ -65,4 +65,4 @@ Bitcoin companies shutting down
 
 * [Testnet4 Bip](https://github.com/bitcoin/bips/pull/1601)
 
-[New Ark Impl](https://codeberg.org/ark-bitcoin/bark/)
+[New Ark Implementation](https://codeberg.org/ark-bitcoin/bark/)
