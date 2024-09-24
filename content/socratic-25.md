@@ -48,6 +48,12 @@ Bitcoin companies shutting down
 
 [Bip300/301 CUSF](https://bip300cusf.com/)
 
+[Puzzle #66 solved and stolen(?)](https://bitcointalk.org/index.php?topic=1306983.msg64526037#msg64526037)
+
+[Pleblab startup day](https://www.pleblab.dev/startup-day-cdmx)
+
+[Strike Tx at Pleblab](https://x.com/mira_hurley/status/1836791341214540071)
+
 ## Security
 
 [Intel SGX Fuse Key0 compromised](https://x.com/_markel___/status/1828112469010596347)
