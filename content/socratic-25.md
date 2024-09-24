@@ -46,6 +46,8 @@ Bitcoin companies shutting down
 
 [Bitcoin as a random beacon](https://github.com/callebtc/randombtc)
 
+[Bip300/301 CUSF](https://bip300cusf.com/)
+
 ## Security
 
 [Intel SGX Fuse Key0 compromised](https://x.com/_markel___/status/1828112469010596347)
@@ -73,3 +75,5 @@ Bitcoin companies shutting down
 [New Ark Implementation](https://codeberg.org/ark-bitcoin/bark/)
 
 [Ashigaru v1.0.0: Privacy-first Mobile Bitcoin Wallet](https://www.nobsbitcoin.com/ashigaru-v1-0-0/)
+
+[Citrea Launches](https://x.com/citrea_xyz/status/1838587009478078630)
