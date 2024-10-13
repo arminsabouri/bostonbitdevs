@@ -49,4 +49,7 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 
 [Musig2 Support merged in Secp256k1](https://github.com/bitcoin-core/secp256k1/pull/1479)
 
-[DLC Markets](https://dlcmarkets.com/)
+
+## Misc. / Cultural
+
+[Peter Todd is Satoshi](https://watcher.guru/news/hbo-documentary-claims-peter-todd-is-bitcoin-creator-satoshi-nakamoto)
