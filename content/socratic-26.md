@@ -15,7 +15,7 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 
 [Bitcoin Core 28.0 release](https://github.com/bitcoin/bitcoin/blob/5de225f5c145368f70cb5f870933bcf9df6b92c8/doc/release-notes.md)
 
-[Analysis of the disappointing denial of Tornado Devs' motion to dismiss](https://www.coincenter.org/analysis-the-disappointing-denial-of-tornado-devs-motion-to-dismiss/)
+[Analysis of the disappointing denial of Tornado Dev's motion to dismiss](https://www.coincenter.org/analysis-the-disappointing-denial-of-tornado-devs-motion-to-dismiss/)
 
 [FROST Signing BIP](https://github.com/siv2r/bip-frost-signing)
 
@@ -31,11 +31,11 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 
 - [Disclosure of hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation/)
 
-- [Disclosure of hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation/)
-
 - [Disclosure of DoS due to inv-to-send sets growing too large](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send/)
 
 - [CVE-2024-35202 BlockTxn Crash](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
+
+[Btcd FindAndDelete Vulnerability](https://delvingbitcoin.org/t/cve-2024-38365-public-disclosure-btcd-findanddelete-bug/1184)
 
 ## Research
 
