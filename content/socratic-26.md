@@ -15,6 +15,10 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 
 [Bitcoin Core 28.0 release](https://github.com/bitcoin/bitcoin/blob/5de225f5c145368f70cb5f870933bcf9df6b92c8/doc/release-notes.md)
 
+- [Ephemeral Anchors](https://bitcoinops.org/en/topics/ephemeral-anchors/)
+
+- [Transition to CMake](https://mailing-list.bitcoindevs.xyz/bitcoindev/6cfd5a56-84b4-4cbc-a211-dd34b8942f77n@googlegroups.com/)
+
 [Analysis of the disappointing denial of Tornado Dev's motion to dismiss](https://www.coincenter.org/analysis-the-disappointing-denial-of-tornado-devs-motion-to-dismiss/)
 
 [FROST Signing BIP](https://github.com/siv2r/bip-frost-signing)
@@ -53,3 +57,5 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 ## Misc. / Cultural
 
 [Peter Todd is Satoshi](https://watcher.guru/news/hbo-documentary-claims-peter-todd-is-bitcoin-creator-satoshi-nakamoto)
+
+[Fractal Learns about SigOps](https://x.com/mononautical/status/1839666999879680451)
