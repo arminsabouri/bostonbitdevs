@@ -53,7 +53,7 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 
 - [Explainer](https://www.allocin.it/posts/Bitcoin-PIPEs)
 
-- [Related: FedCov](https://rubin.io/public/pdfs/fedcov.pdf)
+- [Related: Fe'd up Covenants](https://rubin.io/public/pdfs/fedcov.pdf)
 
 
 ## Software Releases
@@ -68,5 +68,7 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 ## Misc. / Cultural
 
 [Peter Todd is Satoshi](https://watcher.guru/news/hbo-documentary-claims-peter-todd-is-bitcoin-creator-satoshi-nakamoto)
+
+[Coinbase supports sending to taproot](https://x.com/BitcoinNewsCom/status/1844724523825758583)
 
 [Fractal Learns about SigOps](https://x.com/mononautical/status/1839666999879680451)
