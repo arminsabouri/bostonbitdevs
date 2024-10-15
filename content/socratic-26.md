@@ -31,6 +31,8 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 
 - [Bitcoin Layers](https://www.bitcoinlayers.org/methodology)
 
+- [QuBit - P2QRH spending rules](https://github.com/bitcoin/bips/pull/1670)
+
 ## Security
 
 [NBitcoin Musig2 nonce reuse](https://github.com/MetacoSA/NBitcoin/pull/1228)
