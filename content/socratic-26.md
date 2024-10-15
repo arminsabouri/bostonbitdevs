@@ -27,6 +27,12 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 
 [Ocean Datum](https://ocean.xyz/docs/datum)
 
+[Bitcoin Layers framework update](https://nitter.privacydev.net/januszg_/status/1843765543943241912)
+
+- [Bitcoin Layers](https://www.bitcoinlayers.org/methodology)
+
+
+
 ## Security
 
 [NBitcoin Musig2 nonce reuse](https://github.com/MetacoSA/NBitcoin/pull/1228)
@@ -45,13 +51,18 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 
 [Bitcoin PIPE](https://www.allocin.it/uploads/placeholder-bitcoin.pdf)
 
+- [Explainer](https://www.allocin.it/posts/Bitcoin-PIPEs)
+
 - [Related: FedCov](https://rubin.io/public/pdfs/fedcov.pdf)
+
 
 ## Software Releases
 
 [BDK Swift Example Wallet for mobile](https://github.com/bitcoindevkit/BDKSwiftExampleWallet)
 
 [Musig2 Support merged in Secp256k1](https://github.com/bitcoin-core/secp256k1/pull/1479)
+
+[Strata Devnet is now live](https://www.stratabtc.org/blog/strata-devnet-is-now-live-open-source)
 
 
 ## Misc. / Cultural
