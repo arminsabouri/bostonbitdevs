@@ -31,16 +31,13 @@ aliases = ["socratic/2024/10/15/socratic-26.html"]
 
 - [Bitcoin Layers](https://www.bitcoinlayers.org/methodology)
 
-
-
 ## Security
 
 [NBitcoin Musig2 nonce reuse](https://github.com/MetacoSA/NBitcoin/pull/1228)
 
-[Core Vulnerability Disclosures](https://github.com/bitcoin/bitcoin/pull/29816)
+Core Vulnerability Disclosures
 
 - [Disclosure of hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation/)
-
 - [Disclosure of DoS due to inv-to-send sets growing too large](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send/)
 
 - [CVE-2024-35202 BlockTxn Crash](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
