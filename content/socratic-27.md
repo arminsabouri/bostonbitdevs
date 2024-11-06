@@ -24,11 +24,11 @@ aliases = ["socratic/2024/11/07/socratic-27.html"]
 
 [Unlocking Mass-Market Self-Custody](https://assets.ctfassets.net/mtmp6hzjjvnd/6Qjcs8zgMiyffC0Uk8cx4V/f4be3237365ab7302915ec96d80f74d2/Unlocking_Mass_Market_Self_Custody.pdf)
 
-[BIP: DLEQ](https://github.com/bitcoin/bips/pull/1689)
+[BIP: DLEQ](https://github.com/bitcoin/bips/blob/4f5d87adc8bed41db534e2a3ec31096eb24a0851/bip-DLEQ.mediawiki)
 
 [Silent Payment PSBT Fields](https://groups.google.com/g/bitcoindev/c/5G5wzqUXyk4)
 
-[OP_PAIRCOMMIT](https://delvingbitcoin.org/t/op-paircommit-as-a-candidate-for-addition-to-lnhance/1216)
+[OP_PAIRCOMMIT](https://gist.github.com/moonsettler/d7f1fb88e3e54ee7ecb6d69ff126433b)
 
 Bitcoin Developer Funding
 
