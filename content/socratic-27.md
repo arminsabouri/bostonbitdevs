@@ -12,6 +12,12 @@ aliases = ["socratic/2024/11/07/socratic-27.html"]
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.
 
 ## Topics
+[Collider Script](https://colliderscript.co/colliderscript.pdf)
+
+[Bitcoin Consensus Analysis Project](https://github.com/bitcoin-cap/bcap)
+
+- [Steve's Tweet Thread](https://x.com/moneyball/status/1854585339119341796)
+
 [Forknet fork](https://x.com/0xB10C/status/1849133671980339313)
 
 - [Block Storms](https://blog.lopp.net/the-block-storms-of-bitcoins-testnet/)
