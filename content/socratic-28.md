@@ -13,11 +13,16 @@ aliases = ["socratic/2025/03/04/socratic-28.html"]
 
 ## Topics
 
+### Covenants News
+
+* [Covenants Support Wiki Page](https://en.bitcoin.it/w/index.php?title=Covenants_support&modqueued=1)
+* [Covenants Roadmap](https://x.com/jeremyrubin/status/1895676912401252588?s=46&t=PtDQpC8qXN6eLrhVrXTVNA)
+* [Softforks website](https://softforks.org/)
+
 [Advancements in On-Chain Privacy by OpenSats](https://opensats.org/blog/developing-advancements-in-onchain-privacy)
 
 [BIP321](https://github.com/bitcoin/bips/pull/1555)
 
-[Covenants support](https://en.bitcoin.it/w/index.php?title=Covenants_support&modqueued=1)
 
 [BOSD](https://groups.google.com/g/bitcoindev/c/vR54BzC3pIQ/m/1z8xJTOOAAAJ)
 
