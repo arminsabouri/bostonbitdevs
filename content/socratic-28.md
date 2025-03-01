@@ -15,6 +15,8 @@ aliases = ["socratic/2025/03/04/socratic-28.html"]
 
 ### Covenants News
 
+[Brain Wallet Fiasco](https://x.com/mononautical/status/1895639824197206352)
+
 * [Covenants Support Wiki Page](https://en.bitcoin.it/w/index.php?title=Covenants_support&modqueued=1)
 * [Covenants Roadmap](https://x.com/jeremyrubin/status/1895676912401252588?s=46&t=PtDQpC8qXN6eLrhVrXTVNA)
 * [Softforks website](https://softforks.org/)
