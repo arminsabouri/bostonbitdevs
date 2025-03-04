@@ -23,6 +23,8 @@ Covenants News:
 - [Covenants Roadmap](https://x.com/jeremyrubin/status/1895676912401252588?s=46&t=PtDQpC8qXN6eLrhVrXTVNA)
 - [Softforks website](https://softforks.org/)
 
+[Fidelity Lightning Report](https://fwc.widen.net/s/fxj6fgcwpq/fda_thelightningnetwork_expandingbitcoinusecases_1187503.1.0_v5)
+
 [BOSD](https://groups.google.com/g/bitcoindev/c/vR54BzC3pIQ/m/1z8xJTOOAAAJ)
 
 Post-Quantum Upgrades News:
@@ -39,13 +41,13 @@ Post-Quantum Upgrades News:
 
 [Lark](https://github.com/sparrowwallet/lark)
 
-[Fidelity Lightning Report](https://fwc.widen.net/s/fxj6fgcwpq/fda_thelightningnetwork_expandingbitcoinusecases_1187503.1.0_v5)
-
 ## Security
 
 [Bitcoin Lightning Bug Allows Remote Theft of Bitcoin via LND Nodes](https://protos.com/bitcoin-lightning-bug-allows-remote-theft-of-bitcoin-via-lnd-nodes/)
 
 [Hackers Steal $1.5 Billion of Crypto From Bybit Exchange](https://www.hnlbtc.group/bit-devs/resources/notes/hackers-steal-1-5-billion-of-crypto-from-bybit-exchange/)
+
+- [Grok Explination](https://x.com/i/grok/share/dmDlatk08spOEgG5aLu2ENGy0)
 
 ## Research
 
@@ -58,3 +60,5 @@ Post-Quantum Upgrades News:
 [Bitcoin Inquisition 28.1](https://delvingbitcoin.org/t/bitcoin-inquisition-28-1/1445/1)
 
 ## Misc. / Cultural
+
+[Core Devs Retro 2024](https://adamjonas.com/bitcoin/coredev/retro/coredev-2024-retro/)
