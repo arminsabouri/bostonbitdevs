@@ -43,6 +43,8 @@ Post-Quantum Upgrades News:
 
 [Lark](https://github.com/sparrowwallet/lark)
 
+[Payjoin N-Senders-1-Reciever](https://github.com/payjoin/rust-payjoin/pull/434)
+
 ## Security
 
 [Bitcoin Lightning Bug Allows Remote Theft of Bitcoin via LND Nodes](https://protos.com/bitcoin-lightning-bug-allows-remote-theft-of-bitcoin-via-lnd-nodes/)
@@ -66,3 +68,5 @@ Post-Quantum Upgrades News:
 [Recent changes to Bitcoin policy in El Salvador](https://x.com/jdennehy_writes/status/1896980455582257164)
 
 [Core Devs Retro 2024](https://adamjonas.com/bitcoin/coredev/retro/coredev-2024-retro/)
+
+[Who Funds Bitcoin](https://whofundsbitcoin.com/)
