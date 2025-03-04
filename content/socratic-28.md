@@ -35,6 +35,8 @@ Post-Quantum Upgrades News:
 
 [BIP321](https://github.com/bitcoin/bips/pull/1555)
 
+[M31 OPCODES](https://hackmd.io/@abdelhamid/m31-opcodes-bitcoin-stark)
+
 [Call for reconfiguration of nodes to relay transactions with fee-rates below 1 sat/vbyte](https://groups.google.com/g/bitcoindev/c/3CRqKviJY_M)
 
 [MevPool](https://github.com/mevpool/mevpool/blob/main/mevpool-marketplace.md)
