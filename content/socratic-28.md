@@ -63,4 +63,6 @@ Post-Quantum Upgrades News:
 
 ## Misc. / Cultural
 
+[Recent changes to Bitcoin policy in El Salvador](https://x.com/jdennehy_writes/status/1896980455582257164)
+
 [Core Devs Retro 2024](https://adamjonas.com/bitcoin/coredev/retro/coredev-2024-retro/)
