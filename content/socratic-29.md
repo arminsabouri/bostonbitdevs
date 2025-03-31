@@ -23,6 +23,8 @@ aliases = ["socratic/2025/03/03/socratic-29.html"]
 
 [Hashed keys are actually fully quantum secure](https://groups.google.com/g/bitcoindev/c/jr1QO95k6Uc)
 
+[BIP-360 Updates](https://groups.google.com/g/bitcoindev/c/oQKezDOc4us)
+
 [Time to add CSFS to Signet?](https://groups.google.com/g/bitcoindev/c/wbUx4-SMMYE)
 
 [Table for economic nodes: Covenants Support - Bitcoin Wiki](https://groups.google.com/g/bitcoindev/c/kd8g8V1NVOY)
@@ -38,3 +40,5 @@ aliases = ["socratic/2025/03/03/socratic-29.html"]
 [Bitcoin Core 29.0 RC](https://delvingbitcoin.org/t/bitcoin-core-29-0-release-candidate-is-available/1536)
 
 ## Misc. / Cultural
+
+[Who Funds Bitcoin](https://whofundsbitcoin.com/)
