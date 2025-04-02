@@ -19,6 +19,8 @@ Quantum Resistance Updates:
 - [Hashed keys are actually fully quantum secure](https://groups.google.com/g/bitcoindev/c/jr1QO95k6Uc)
 - [BIP-360 Updates](https://groups.google.com/g/bitcoindev/c/oQKezDOc4us)
 
+[Mailing List Banned](https://x.com/callebtc/status/1907491265328927126)
+
 [Boltz requested to block addresses](https://x.com/lightcoin/status/1905313895646199876?s=46)
 
 [Tether Brings USDt to Bitcoin’s Lightning Network via Taproot Assets](https://lightninglabs.substack.com/p/it-all-comes-back-to-bitcoin-how)
