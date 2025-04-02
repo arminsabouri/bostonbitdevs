@@ -13,17 +13,17 @@ aliases = ["socratic/2025/03/03/socratic-29.html"]
 
 ## Topics
 
+Quantum Resistance Updates:
+
+- [Against Allowing Quantum Recovery of Bitcoin](https://blog.lopp.net/against-quantum-recovery-of-bitcoin/)
+- [Hashed keys are actually fully quantum secure](https://groups.google.com/g/bitcoindev/c/jr1QO95k6Uc)
+- [BIP-360 Updates](https://groups.google.com/g/bitcoindev/c/oQKezDOc4us)
+
 [Boltz requested to block addresses](https://x.com/lightcoin/status/1905313895646199876?s=46)
 
 [Tether Brings USDt to Bitcoin’s Lightning Network via Taproot Assets](https://lightninglabs.substack.com/p/it-all-comes-back-to-bitcoin-how)
 
 - [Breakdown](https://medium.com/joltzwallet/how-will-usdt-impact-bitcoin-lightning-6cae325ac5e5)
-
-[Against Allowing Quantum Recovery of Bitcoin](https://blog.lopp.net/against-quantum-recovery-of-bitcoin/)
-
-[Hashed keys are actually fully quantum secure](https://groups.google.com/g/bitcoindev/c/jr1QO95k6Uc)
-
-[BIP-360 Updates](https://groups.google.com/g/bitcoindev/c/oQKezDOc4us)
 
 [Time to add CSFS to Signet?](https://groups.google.com/g/bitcoindev/c/wbUx4-SMMYE)
 
@@ -31,7 +31,7 @@ aliases = ["socratic/2025/03/03/socratic-29.html"]
 
 [Standard Unstructured Annex](https://groups.google.com/g/bitcoindev/c/Q5j2Kb6XeHI)
 
-## Security
+## Research
 
 [CISA Paper](https://hrf.org/latest/cisa-research-paper/)
 
