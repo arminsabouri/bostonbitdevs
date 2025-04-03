@@ -13,7 +13,11 @@ aliases = ["socratic/2025/03/03/socratic-29.html"]
 
 ## Topics
 
-[Mailing List Banned](https://x.com/callebtc/status/1907491265328927126)
+Mailing List Banned:
+
+- [Post by kanzure](https://gnusha.org/pi/bitcoindev/CABaSBaz9OTSVa1KNk0GOrH3T-kRF_7OPVu0AtpuaFGVB=zhdwQ@mail.gmail.com/)
+
+- [Tweet by Ruben Somsen](https://x.com/SomsenRuben/status/1907566218640269378)
 
 Quantum Resistance Updates:
 
