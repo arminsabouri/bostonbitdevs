@@ -7,7 +7,7 @@ aliases = ["socratic/2022/12/15/socratic-11.html"]
 ## Housekeeping
 
 - [What is a Socratic Seminar?](https://bitdevs.org/about#socratic-seminars)
-- Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar [here](https://github.com/0xBEEFCAF3/bostonbitdevs/issues/new).
+- Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar [here](https://github.com/arminsabouri/bostonbitdevs/issues/new).
 - No photos, videos, or recordings.
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.
 
@@ -23,7 +23,7 @@ aliases = ["socratic/2022/12/15/socratic-11.html"]
 ## Variety in Bitcoin Implementations
 
 - [Burak breaks more stuff](https://twitter.com/brqgoo/status/1587397646125260802?s=46&t=ees6gQ0q1gXw9i89Iv_TyQ) (original tweet)
-- Follow up: It was an issue in older versions of rust-bitcoin which caused [many more projects than just LND to be impacted](https://github.com/0xBEEFCAF3/bostonbitdevs/issues/7#issuecomment-1304882080)
+- Follow up: It was an issue in older versions of rust-bitcoin which caused [many more projects than just LND to be impacted](https://github.com/arminsabouri/bostonbitdevs/issues/7#issuecomment-1304882080)
 - [Background Reading](https://petertodd.org/2016/multiple-implementations-consensus-systems): Peter Todd's thoughts on multiple implementations
 - [Greg Maxwell's thoughts regarding a 'Bitcoin Spec'](https://old.reddit.com/r/Bitcoin/comments/yj9low/lnd_emergency_bugfix_release_0154_beta/iuu1bw2/?context=3)
 

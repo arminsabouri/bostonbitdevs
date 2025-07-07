@@ -7,7 +7,7 @@ aliases = ["socratic/2023/09/11/socratic-19.html"]
 ## Housekeeping 🧹
 
 - [What is a Socratic Seminar?](https://bitdevs.org/about#socratic-seminars)
-- Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar [here](https://github.com/0xBEEFCAF3/bostonbitdevs/issues/new).
+- Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar [here](https://github.com/arminsabouri/bostonbitdevs/issues/new).
 - No photos, videos, or recordings.
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.
 
@@ -37,5 +37,5 @@ aliases = ["socratic/2023/09/11/socratic-19.html"]
 ### [Sad Milk](https://www.nobsbitcoin.com/milk-sad-vulnerability-disclosure/)
 ### [500k Tx Fee](https://www.nobsbitcoin.com/f2pool-to-return-20-btc-to-sender/)
 ### [Steal passwords through sound](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
-### [FROST-Notebook](https://github.com/0xBEEFCAF3/FROST-Notebook)
+### [FROST-Notebook](https://github.com/arminsabouri/FROST-Notebook)
 ### [Introducing Frostsnap](https://frostsnap.com/introducing-frostsnap.html)

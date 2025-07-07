@@ -7,7 +7,7 @@ aliases = ["socratic/2023/03/28/socratic-14.html"]
 ## Housekeeping
 
 - [What is a Socratic Seminar?](https://bitdevs.org/about#socratic-seminars)
-- Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar [here](https://github.com/0xBEEFCAF3/bostonbitdevs/issues/new).
+- Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar [here](https://github.com/arminsabouri/bostonbitdevs/issues/new).
 - No photos, videos, or recordings.
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.
 
@@ -17,7 +17,7 @@ aliases = ["socratic/2023/03/28/socratic-14.html"]
 - [Lightning on Blockstream Green](https://twitter.com/Blockstream/status/1638671142570594305)
 - [mempool.space explorer enhances CPFP support](https://twitter.com/mempool/status/1630196989370712066)
 - [musig2 BIP!](https://github.com/bitcoin/bips/blob/master/bip-0327.mediawiki)
-- [LND Config Generator](https://0xbeefcaf3.github.io/LND-config-generator)
+- [LND Config Generator](https://arminsabouri.github.io/LND-config-generator)
 - [Payjoin.org](http://payjoin.org/)
 
 

@@ -12,7 +12,7 @@ It's been over 2.5 years since the last Boston BitDevs meetup. We've got a lot o
 You may be wondering where the reading lists for Socratic Seminars 1-8 are. Those can be found in the [Past Events](https://www.meetup.com/boston-bitdevs/events/past/) section of the Meetup page.
 
 - [What is a Socratic Seminar?](https://bitdevs.org/about#socratic-seminars)
-- Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar [here](https://github.com/0xBEEFCAF3/bostonbitdevs/issues/new).
+- Questions are encouraged, including basic ones! Suggest topics for the next Socratic Seminar [here](https://github.com/arminsabouri/bostonbitdevs/issues/new).
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): You are free to share discussions and learnings from Boston BitDevs, but do not reveal the source of the information. Do not share the identity of any of the speakers or participants.
 
 Culture
