@@ -34,3 +34,5 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 [Bitcoin Transcripts Re-launched](https://btctranscripts.com/)
 
 - [Product launch announcement](https://x.com/Bitcoin_Devs/status/1943315955259502625)
+
+[Silent Payments Zine](https://technicaldifficulties.io/zines/collabs/Yashraj_SilentPayments_Design_Zine.pdf)
