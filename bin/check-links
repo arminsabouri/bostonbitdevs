@@ -24,6 +24,7 @@ links=(
   socratic/2024/11/07/socratic-27.html
   socratic/2025/01/27/socratic-28.html
   socratic/2025/03/03/socratic-29.html
+  socratic/2025/07/17/socratic-30.html
 )
 
 for link in ${links[@]}; do
