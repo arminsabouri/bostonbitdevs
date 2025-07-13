@@ -19,6 +19,14 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 [Post-Quantum commit / reveal Fawkescoin variant as a soft fork](https://groups.google.com/g/bitcoindev/c/LpWOcXMcvk8)
 
+[A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
+
+[A Taproot-native (re-)bindable transaction bundle proposal](https://groups.google.com/g/bitcoindev/c/5wLThgegha4/m/iUWIZPIaCAAJ)
+
+- [BIP - Templatehash-csfs-ik](https://github.com/instagibbs/bips/blob/bip_op_templatehash/bip-templatehash-csfs-ik.md)
+
+- [BIP Template Hash](https://github.com/instagibbs/bips/blob/bip_op_templatehash/bip-templatehash.md)
+
 ## Research
 
 [Hourglass](https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki)
@@ -35,4 +43,4 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 - [Product launch announcement](https://x.com/Bitcoin_Devs/status/1943315955259502625)
 
-[Silent Payments Zine](https://technicaldifficulties.io/zines/collabs/Yashraj_SilentPayments_Design_Zine.pdf)
+[Silent Payments Zine](https://satsie.dev/zines/silentpayments.html)
