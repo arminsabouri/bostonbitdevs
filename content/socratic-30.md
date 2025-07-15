@@ -21,6 +21,8 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
 
+- [Post Quantum Migration and Legacy Signature Sunset BIP](https://github.com/jlopp/bips/blob/quantum_migration/bip-post-quantum-migration.mediawiki)
+
 [A Taproot-native (re-)bindable transaction bundle proposal](https://groups.google.com/g/bitcoindev/c/5wLThgegha4/m/iUWIZPIaCAAJ)
 
 - [BIP - Templatehash-csfs-ik](https://github.com/instagibbs/bips/blob/bip_op_templatehash/bip-templatehash-csfs-ik.md)
@@ -33,7 +35,7 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 - [Tweet Announcement](https://x.com/andurobtc/status/1917599772459860110)
 
-- [Garbled Circuits and BitVM3](https://delvingbitcoin.org/t/garbled-circuits-and-bitvm3/1773)
+[Garbled Circuits and BitVM3](https://delvingbitcoin.org/t/garbled-circuits-and-bitvm3/1773)
 
 ## Software Releases
 
