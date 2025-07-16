@@ -17,6 +17,8 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 [Updates to BIP360](https://groups.google.com/g/bitcoindev/c/nSAd0UmDSvc)
 
+- [BIP360](https://bip360.org/bip360.html)
+
 [Post-Quantum commit / reveal Fawkescoin variant as a soft fork](https://groups.google.com/g/bitcoindev/c/LpWOcXMcvk8)
 
 [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
@@ -28,6 +30,8 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 - [BIP - Templatehash-csfs-ik](https://github.com/instagibbs/bips/blob/bip_op_templatehash/bip-templatehash-csfs-ik.md)
 
 - [BIP Template Hash](https://github.com/instagibbs/bips/blob/bip_op_templatehash/bip-templatehash.md)
+
+[Payjoin UX Challanged](https://github.com/orgs/payjoin/discussions/706)
 
 ## Research
 
@@ -46,3 +50,5 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 - [Product launch announcement](https://x.com/Bitcoin_Devs/status/1943315955259502625)
 
 [Silent Payments Zine](https://satsie.dev/zines/silentpayments.html)
+
+[PlebFi is back!](https://pleb.fi/miami2025/)
