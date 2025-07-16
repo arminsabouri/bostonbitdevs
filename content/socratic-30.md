@@ -31,7 +31,7 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 - [BIP Template Hash](https://github.com/instagibbs/bips/blob/bip_op_templatehash/bip-templatehash.md)
 
-[Payjoin UX Challanged](https://github.com/orgs/payjoin/discussions/706)
+[Payjoin UX Challenges](https://github.com/orgs/payjoin/discussions/706)
 
 ## Research
 
