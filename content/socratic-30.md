@@ -15,7 +15,7 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 [[Rust] descriptor-encrypt: Encrypt any descriptor such that only authorized spenders can decrypt](https://delvingbitcoin.org/t/rust-descriptor-encrypt-encrypt-any-descriptor-such-that-only-authorized-spenders-can-decrypt/1750)
 
-[Updates to BIP360](https://groups.google.com/g/bitcoindev/c/nSAd0UmDSvc)
+[Updates to BIP360](https://delvingbitcoin.org/t/changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh/1811)
 
 - [BIP360](https://github.com/cryptoquick/bips/blob/p2qrh/bip-0360.mediawiki)
 
