@@ -41,6 +41,10 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 - [BitVM3 Paper](https://bitvm.org/bitvm3.pdf)
 
+- [A note on BitVM3 RSA Garbling](https://hackmd.io/@liameagen/bitvm3-garbling-note)
+
+- [Chain Code Delegation](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837/1)
+
 ## Misc. / Cultural
 
 [Bitcoin Transcripts Re-launched](https://btctranscripts.com/)
