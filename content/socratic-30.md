@@ -17,7 +17,7 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 [Updates to BIP360](https://groups.google.com/g/bitcoindev/c/nSAd0UmDSvc)
 
-- [BIP360](https://bip360.org/bip360.html)
+- [BIP360](https://github.com/cryptoquick/bips/blob/p2qrh/bip-0360.mediawiki)
 
 [Post-Quantum commit / reveal Fawkescoin variant as a soft fork](https://groups.google.com/g/bitcoindev/c/LpWOcXMcvk8)
 
@@ -33,15 +33,13 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 [Payjoin UX Challenges](https://github.com/orgs/payjoin/discussions/706)
 
-## Research
-
 [Hourglass](https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki)
 
 - [Tweet Announcement](https://x.com/andurobtc/status/1917599772459860110)
 
 [Garbled Circuits and BitVM3](https://delvingbitcoin.org/t/garbled-circuits-and-bitvm3/1773)
 
-## Software Releases
+- [BitVM3 Paper](https://bitvm.org/bitvm3.pdf)
 
 ## Misc. / Cultural
 
