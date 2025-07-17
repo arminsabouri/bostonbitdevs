@@ -43,7 +43,13 @@ aliases = ["socratic/2025/07/17/socratic-30.html"]
 
 - [A note on BitVM3 RSA Garbling](https://hackmd.io/@liameagen/bitvm3-garbling-note)
 
-- [Chain Code Delegation](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837/1)
+[Chain Code Delegation](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837/1)
+
+[Reducing the Min Relay Fee](https://github.com/bitcoin/bitcoin/pull/32959)
+
+- [~ 20% of miners are mining them](https://x.com/mononautical/status/1944942585384198259)
+
+[Rethinking Liveness and Liquidity in Arkade](https://blog.arklabs.xyz/adios-expiry-rethinking-liveness-and-liquidity-in-arkade/)
 
 ## Misc. / Cultural
 
