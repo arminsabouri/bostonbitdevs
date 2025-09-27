@@ -29,6 +29,8 @@ aliases = ["socratic/2025/09/30/socratic-31.html"]
 
 [BIP Proposal: Great Script restoration](https://github.com/rustyrussell/bips/pull/1/files)
 
+[Implications of OP_RETURN changes in upcoming Bitcoin Core version 30.0](https://bitcoin.stackexchange.com/questions/127895/implications-of-op-return-changes-in-upcoming-bitcoin-core-version-30-0)
+
 ## Research
 
 [Glock](https://www.alpenlabs.io/blog/glock-verification-on-bitcoin)
@@ -54,3 +56,7 @@ aliases = ["socratic/2025/09/30/socratic-31.html"]
 [Cryptography Camp Workbook](https://github.com/cryptography-camp/workbook)
 
 [BRC2.0 Specification Sheet](https://blog.bestinslot.xyz/brc20-specification-sheet)
+
+[Samourai Wallet Developers Plead Guilty To Unlicensed Money Transmission](https://www.therage.co/samourai-wallet-developers-plead-guilty-to-unlicensed-money-transmission/)
+
+[Roman Storm Found Guilty of Unlicensed Money Transmission Conspiracy](https://www.therage.co/roman-storm-trial-split-verdict-tornado-cash/)
