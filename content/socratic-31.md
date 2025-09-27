@@ -1,7 +1,7 @@
 +++
-title = "Socratic Seminar 30"
+title = "Socratic Seminar 31"
 date = 2025-09-30
-aliases = ["socratic/2025/09/30/socratic-30.html"]
+aliases = ["socratic/2025/09/30/socratic-31.html"]
 +++
 
 ## Housekeeping 🧹
@@ -21,11 +21,13 @@ aliases = ["socratic/2025/09/30/socratic-30.html"]
 
 [Measuring minrelaytxfee across the Bitcoin network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network)
 
-[(BIP Proposal) Block template sharing](https://groups.google.com/g/bitcoindev/c/o00NY6TvcHc)
+[(BIP Proposal) Block template sharing](https://delvingbitcoin.org/t/sharing-block-templates/1906)
 
 [BIP Booby Trapped Wallets - Covenant-Only Taproot Outputs](https://groups.google.com/g/bitcoindev/c/Xlcztk_j3b4)
 
 [(BIP Proposal) Standard Encrypted Wallet Payload + Standard Encryption Envelope formats](https://groups.google.com/g/bitcoindev/c/3I-qtBhzIGY)
+
+[BIP Proposal: Great Script restoration](https://github.com/rustyrussell/bips/pull/1/files)
 
 ## Research
 
@@ -52,7 +54,3 @@ aliases = ["socratic/2025/09/30/socratic-30.html"]
 [Cryptography Camp Workbook](https://github.com/cryptography-camp/workbook)
 
 [BRC2.0 Specification Sheet](https://blog.bestinslot.xyz/brc20-specification-sheet)
-
-
-
-
