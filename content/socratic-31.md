@@ -13,7 +13,7 @@ aliases = ["socratic/2025/09/30/socratic-31.html"]
 
 ## Topics
 
-[Utreexo Bips](https://github.com/utreexo/biptreexo)
+[(BIP Proposal) Utreexo](https://github.com/utreexo/biptreexo)
 
 [(BIP Proposal) OP_TWEAKADD](https://github.com/bitcoin/bips/pull/1944/files#diff-87aa38f0b7a2b183e0a8d50f994bde6f8f7be62a3908a9da491d8f103fc83699R297)
 
@@ -23,15 +23,17 @@ aliases = ["socratic/2025/09/30/socratic-31.html"]
 
 [(BIP Proposal) Block template sharing](https://delvingbitcoin.org/t/sharing-block-templates/1906)
 
-[BIP Booby Trapped Wallets - Covenant-Only Taproot Outputs](https://groups.google.com/g/bitcoindev/c/Xlcztk_j3b4)
+[(BIP Proposal) Booby Trapped Wallets - Covenant-Only Taproot Outputs](https://groups.google.com/g/bitcoindev/c/Xlcztk_j3b4)
 
 [(BIP Proposal) Standard Encrypted Wallet Payload + Standard Encryption Envelope formats](https://groups.google.com/g/bitcoindev/c/3I-qtBhzIGY)
 
-[BIP Proposal: Great Script Restoration](https://github.com/rustyrussell/bips/pull/1/files)
+[(BIP Proposal) Great Script Restoration](https://github.com/rustyrussell/bips/pull/1/files)
 
 [Implications of OP_RETURN changes in upcoming Bitcoin Core version 30.0](https://bitcoin.stackexchange.com/questions/127895/implications-of-op-return-changes-in-upcoming-bitcoin-core-version-30-0)
 
-[Mempool Validation and Relay Policy via User-Defined Scripts](https://github.com/dr-bonez/bips/blob/5d94245d823f5f4d5187f429bd67542b9f2b4054/bip-mempool-policy-scripts.md)
+[(BIP Proposal) Mempool Validation and Relay Policy via User-Defined Scripts](https://github.com/dr-bonez/bips/blob/5d94245d823f5f4d5187f429bd67542b9f2b4054/bip-mempool-policy-scripts.md)
+
+[FIBRE network resurrection](https://lclhost.org/blog/transparency-report-002/)
 
 ## Research
 
