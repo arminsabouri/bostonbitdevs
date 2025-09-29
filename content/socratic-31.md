@@ -15,9 +15,9 @@ aliases = ["socratic/2025/09/30/socratic-31.html"]
 
 [Utreexo Bips](https://github.com/utreexo/biptreexo)
 
-[(BIP Proposal) OP_TWEAKADD](https://groups.google.com/g/bitcoindev/c/-_geIB25zrg)
+[(BIP Proposal) OP_TWEAKADD](https://github.com/bitcoin/bips/pull/1944/files#diff-87aa38f0b7a2b183e0a8d50f994bde6f8f7be62a3908a9da491d8f103fc83699R297)
 
-[(BIP Proposal) Elliptic Curve Operations for Bitcoin Script](https://groups.google.com/g/bitcoindev/c/cnzeqBmHEu0)
+[(BIP Proposal) Elliptic Curve Operations for Bitcoin Script](https://github.com/Roasbeef/bips/blob/8df28249daa9d8c685d105c970340e53b7b8e48b/bips-ec-ops.md)
 
 [Measuring minrelaytxfee across the Bitcoin network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network)
 
@@ -27,9 +27,11 @@ aliases = ["socratic/2025/09/30/socratic-31.html"]
 
 [(BIP Proposal) Standard Encrypted Wallet Payload + Standard Encryption Envelope formats](https://groups.google.com/g/bitcoindev/c/3I-qtBhzIGY)
 
-[BIP Proposal: Great Script restoration](https://github.com/rustyrussell/bips/pull/1/files)
+[BIP Proposal: Great Script Restoration](https://github.com/rustyrussell/bips/pull/1/files)
 
 [Implications of OP_RETURN changes in upcoming Bitcoin Core version 30.0](https://bitcoin.stackexchange.com/questions/127895/implications-of-op-return-changes-in-upcoming-bitcoin-core-version-30-0)
+
+[Mempool Validation and Relay Policy via User-Defined Scripts](https://github.com/dr-bonez/bips/blob/5d94245d823f5f4d5187f429bd67542b9f2b4054/bip-mempool-policy-scripts.md)
 
 ## Research
 
@@ -43,9 +45,9 @@ aliases = ["socratic/2025/09/30/socratic-31.html"]
 
 [Bitcoin Core 30.0 release candidate is available](https://groups.google.com/g/bitcoindev/c/DGZBYo1kPUk)
 
-[Stratum V2 UniFFI: Language Bindings for SRI](https://github.com/stratum-mining/sv2-uniffi)
-
 [Bitcoin Knots 29.1.knots20250903 released](https://groups.google.com/g/bitcoindev/c/LCClkGlM698)
+
+[Stratum V2 UniFFI: Language Bindings for SRI](https://github.com/stratum-mining/sv2-uniffi)
 
 [Frigate: experimental Electrum Server testing Silent Payments scanning with ephemeral client keys](https://github.com/sparrowwallet/frigate)
 
