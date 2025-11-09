@@ -19,6 +19,16 @@ aliases = ["socratic/2025/11/13/socratic-32.html"]
 
 [(BIP Proposal) Chaincode delegation](https://github.com/bitcoin/bips/pull/2004)
 
+[(BIP Proposal) Limit ScriptPubkey Size >= 520 Bytes Consensus](https://gnusha.org/pi/bitcoindev/6f6b570f-7f9d-40c0-a771-378eb2c0c701n@googlegroups.com/)
+
+[Post-Quantum Signature aggregation](https://gnusha.org/pi/bitcoindev/05195086-ee52-472c-962d-0df2e0b9dca2n@googlegroups.com/)
+
+[OP_STARK_VERIFY - Native Stark Proof Verification in Bitcoin Script](https://delvingbitcoin.org/t/proposal-op-stark-verify-native-stark-proof-verification-in-bitcoin-script/2056)
+
+[Comparing the performance of ECDSA signature validation in OpenSSL vs. libsecp256k1](https://delvingbitcoin.org/t/proposal-op-stark-verify-native-stark-proof-verification-in-bitcoin-script/2056)
+
+[Public disclosure of 4 Bitcoin Core security advisories](https://groups.google.com/g/bitcoindev/c/sBpCgS_yGws)
+
 ## Research
 
 [Golden: Lightweight Non-Interactive Distributed Key Generation](https://eprint.iacr.org/2025/1924)
@@ -30,5 +40,7 @@ aliases = ["socratic/2025/11/13/socratic-32.html"]
 [oxt.me reboot - Bithypha](https://bithypha.com/)
 
 [Phoenix v2.7.0: Taproot channels](https://github.com/ACINQ/phoenix/releases/tag/android-v2.7.0)
+
+[Bull Wallet](https://www.bullbitcoin.com/blog/bull-by-bull-bitcoin)
 
 ## Misc. / Cultural
