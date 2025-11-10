@@ -15,6 +15,8 @@ aliases = ["socratic/2025/11/13/socratic-32.html"]
 
 [(BIP Proposal) Reduced Data Temporary Softfork](https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8)
 
+* [Bip444 Futures](https://github.com/Rob1Ham/BIP-444-Futures)
+
 [FIBRE network resurrection](https://lclhost.org/blog/transparency-report-002/)
 
 [(BIP Proposal) Chaincode delegation](https://github.com/bitcoin/bips/pull/2004)
