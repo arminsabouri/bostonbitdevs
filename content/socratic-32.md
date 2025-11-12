@@ -31,7 +31,7 @@ aliases = ["socratic/2025/11/13/socratic-32.html"]
 
 [OP_STARK_VERIFY - Native Stark Proof Verification in Bitcoin Script](https://delvingbitcoin.org/t/proposal-op-stark-verify-native-stark-proof-verification-in-bitcoin-script/2056)
 
-[Comparing the performance of ECDSA signature validation in OpenSSL vs. libsecp256k1](https://delvingbitcoin.org/t/proposal-op-stark-verify-native-stark-proof-verification-in-bitcoin-script/2056)
+[Comparing the performance of ECDSA signature validation in OpenSSL vs. libsecp256k1](https://delvingbitcoin.org/t/comparing-the-performance-of-ecdsa-signature-validation-in-openssl-vs-libsecp256k1-over-the-last-decade/2087/5)
 
 [Public disclosure of 4 Bitcoin Core security advisories](https://groups.google.com/g/bitcoindev/c/sBpCgS_yGws)
 
@@ -50,3 +50,5 @@ aliases = ["socratic/2025/11/13/socratic-32.html"]
 [Bull Wallet](https://www.bullbitcoin.com/blog/bull-by-bull-bitcoin)
 
 ## Misc. / Cultural
+
+[Bitcoin Merchant Community Launch](https://www.bitcoinmerchantcommunity.org/)
