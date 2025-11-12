@@ -13,7 +13,7 @@ aliases = ["socratic/2025/11/13/socratic-32.html"]
 
 ## Topics
 
-[(BIP Proposal) Reduced Data Temporary Softfork](https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8)
+[(BIP Proposal) Reduced Data Temporary Softfork](https://github.com/dathonohm/bips/blob/df3ca79c6a27cadf33244cd2019bd5098070548d/bip-%3F%3F%3F%3F.mediawiki)
 
 * [Bip444 Futures](https://github.com/Rob1Ham/BIP-444-Futures)
 
