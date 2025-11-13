@@ -49,6 +49,13 @@ aliases = ["socratic/2025/11/13/socratic-32.html"]
 
 [Bull Wallet](https://www.bullbitcoin.com/blog/bull-by-bull-bitcoin)
 
+[nunchuck 2.0](https://x.com/nunchuk_io/status/1988668175769333786)
+
+[Pay with Bitcoin From Cashapp](https://x.com/square/status/1988668300998434862?s=46
+)
+  * [Cashapp Tweet](https://x.com/milessuter/status/1988729913260831023?s=46
+)
+
 ## Misc. / Cultural
 
 [Bitcoin Merchant Community Launch](https://www.bitcoinmerchantcommunity.org/)
