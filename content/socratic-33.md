@@ -15,7 +15,7 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 
 [Wallet migration bug](https://bitcoincore.org/en/2026/01/05/wallet-migration-bug/) in Bitcoin Core v30.0 and v30.1
 
-* [Bitcoin Core issue 34128](https://github.com/bitcoin/bitcoin/issues/34128)
+- [Bitcoin Core issue 34128](https://github.com/bitcoin/bitcoin/issues/34128)
 
 [CTV activation meeting](https://ctv-activation.github.io/)
 
@@ -25,7 +25,11 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 
 [BIP-0003 is now "deployed"](https://github.com/bitcoin/bips/blob/master/bip-0003.md)
 
+- [Blockspace overview](https://x.com/blockspace/status/2011821673184375239)
+
 [CRQC hard fork proposal (Saylor)](https://damus.io/note1yu8qh0l4cq9gg9fpk4jclp6q0mepuyacq8ha5ljnx76ang52t9pq2npf36)
+
+[Broadcast own transactions only via short-lived Tor or I2P connections](https://github.com/bitcoin/bitcoin/pull/29415)
 
 ## Research
 
