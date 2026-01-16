@@ -7,6 +7,5 @@ build_search_index = false
 # feed_filename = "feed.xml"
 
 [markdown]
-highlight_code = false
 
 [extra]
