@@ -35,6 +35,8 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 
 [Hash-based Signature Schemes for Bitcoin](https://eprint.iacr.org/2025/2203)
 
+[BitVM4? - Argo MAC: Garbling with Elliptic Curve MACs](https://eprint.iacr.org/2026/049)
+
 ## Misc. / Cultural
 
 [Kompaktor: Compacting Bitcoin Payments Into Radical Efficiency](https://yakihonne.com/article/s/kukks@kukks.org/48a04323883154b2)
