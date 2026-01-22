@@ -27,9 +27,13 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 
 - [Blockspace overview](https://x.com/blockspace/status/2011821673184375239)
 
-[CRQC hard fork proposal (Saylor)](https://damus.io/note1yu8qh0l4cq9gg9fpk4jclp6q0mepuyacq8ha5ljnx76ang52t9pq2npf36)
-
 [Broadcast own transactions only via short-lived Tor or I2P connections](https://github.com/bitcoin/bitcoin/pull/29415)
+
+[Silent Payment Output Script Descriptors](https://github.com/craigraw/bips/blob/62bb41fc7e26d1e19a49157b4cd03fbdc59562ba/bip-spdescriptor.mediawiki)
+
+[Kompaktor: Compacting Bitcoin Payments Into Radical Efficiency](https://yakihonne.com/article/s/kukks@kukks.org/48a04323883154b2)
+
+[Vaults using blind co-signers](https://github.com/halseth/blind-vault/blob/d98ad46d43c757dbf79409f5663daebd07164689/doc/vault.md)
 
 ## Research
 
@@ -39,4 +43,4 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 
 ## Misc. / Cultural
 
-[Kompaktor: Compacting Bitcoin Payments Into Radical Efficiency](https://yakihonne.com/article/s/kukks@kukks.org/48a04323883154b2)
+[CRQC hard fork proposal (Saylor)](https://damus.io/note1yu8qh0l4cq9gg9fpk4jclp6q0mepuyacq8ha5ljnx76ang52t9pq2npf36)
