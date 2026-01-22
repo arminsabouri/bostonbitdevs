@@ -21,6 +21,8 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 
 - [Bitcoin Core issue 34128](https://github.com/bitcoin/bitcoin/issues/34128)
 
+- [The fix for the bug](https://github.com/bitcoin/bitcoin/pull/34156)
+
 [CTV activation meeting](https://ctv-activation.github.io/)
 
 [BIP-360 update: Pay-to-Tapscript-Hash](https://delvingbitcoin.org/t/major-bip-360-update/2170)
@@ -34,6 +36,8 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 [Peer Feature Negotiation](https://github.com/bitcoin/bips/pull/2076)
 
 [Vaults using blind co-signers](https://github.com/halseth/blind-vault/blob/d98ad46d43c757dbf79409f5663daebd07164689/doc/vault.md)
+
+[OP_CC: A simple introspection opcode to enable cheaper consolidations](https://delvingbitcoin.org/t/op-cc-a-simple-introspection-opcode-to-enable-cheaper-consolidations/2177)
 
 ## Research
 
