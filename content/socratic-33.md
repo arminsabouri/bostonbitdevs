@@ -13,6 +13,10 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 
 ## Topics
 
+[BIP-0003 is now "deployed"](https://github.com/bitcoin/bips/blob/master/bip-0003.md)
+
+- [Blockspace overview](https://x.com/blockspace/status/2011821673184375239)
+
 [Wallet migration bug](https://bitcoincore.org/en/2026/01/05/wallet-migration-bug/) in Bitcoin Core v30.0 and v30.1
 
 - [Bitcoin Core issue 34128](https://github.com/bitcoin/bitcoin/issues/34128)
@@ -21,17 +25,13 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 
 [BIP-360 update: Pay-to-Tapscript-Hash](https://delvingbitcoin.org/t/major-bip-360-update/2170)
 
-[Peer Feature Negotiation](https://github.com/bitcoin/bips/pull/2076)
-
-[BIP-0003 is now "deployed"](https://github.com/bitcoin/bips/blob/master/bip-0003.md)
-
-- [Blockspace overview](https://x.com/blockspace/status/2011821673184375239)
+[Kompaktor: Compacting Bitcoin Payments Into Radical Efficiency](https://yakihonne.com/article/s/kukks@kukks.org/48a04323883154b2)
 
 [Broadcast own transactions only via short-lived Tor or I2P connections](https://github.com/bitcoin/bitcoin/pull/29415)
 
 [Silent Payment Output Script Descriptors](https://github.com/craigraw/bips/blob/62bb41fc7e26d1e19a49157b4cd03fbdc59562ba/bip-spdescriptor.mediawiki)
 
-[Kompaktor: Compacting Bitcoin Payments Into Radical Efficiency](https://yakihonne.com/article/s/kukks@kukks.org/48a04323883154b2)
+[Peer Feature Negotiation](https://github.com/bitcoin/bips/pull/2076)
 
 [Vaults using blind co-signers](https://github.com/halseth/blind-vault/blob/d98ad46d43c757dbf79409f5663daebd07164689/doc/vault.md)
 
@@ -42,5 +42,3 @@ aliases = ["socratic/2026/01/22/socratic-33.html"]
 [BitVM4? - Argo MAC: Garbling with Elliptic Curve MACs](https://eprint.iacr.org/2026/049)
 
 ## Misc. / Cultural
-
-[CRQC hard fork proposal (Saylor)](https://damus.io/note1yu8qh0l4cq9gg9fpk4jclp6q0mepuyacq8ha5ljnx76ang52t9pq2npf36)
