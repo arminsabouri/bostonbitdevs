@@ -1,7 +1,7 @@
 +++
-title = "Socratic Seminar 35"
+title = "Socratic Seminar 34"
 date = 2026-04-10
-aliases = ["socratic/2026/04/10/socratic-35.html"]
+aliases = ["socratic/2026/04/10/socratic-34.html"]
 +++
 
 ## Housekeeping 🧹
