@@ -13,6 +13,8 @@ aliases = ["socratic/2026/04/10/socratic-34.html"]
 
 ## Topics
 
+[Latest state of the mining IPC interface](https://github.com/bitcoin/bitcoin/issues/33777)
+
 [Hornet UTXO: A Custom, Constant-Time, Highly Parallel UTXO Database](https://delvingbitcoin.org/t/hornet-utxo-1-a-custom-constant-time-highly-parallel-utxo-database/2201)
 
 [Pipesv2](https://x.com/blockspace/status/2019411844553675066)
