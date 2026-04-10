@@ -23,6 +23,8 @@ aliases = ["socratic/2026/04/10/socratic-34.html"]
   
 [Gossip Observer: New Project to Monitor the Lightning P2P Network](https://delvingbitcoin.org/t/gossip-observer-new-project-to-monitor-the-lightning-p2p-network/2105)
 
+[Crest - New Privacy Tool Announced built on Citrea](https://crestapp.xyz/)
+
 [Hornet UTXO: A Custom, Constant-Time, Highly Parallel UTXO Database](https://delvingbitcoin.org/t/hornet-utxo-1-a-custom-constant-time-highly-parallel-utxo-database/2201)
 
 [BinoHash: Transaction Introspection Without Softforks](https://delvingbitcoin.org/t/binohash-transaction-introspection-without-softforks/2288/4)
@@ -42,6 +44,8 @@ aliases = ["socratic/2026/04/10/socratic-34.html"]
 [Pipesv2](https://x.com/blockspace/status/2019411844553675066)
 
 - [Delving Bitcoin discussion](https://delvingbitcoin.org/t/bitcoin-pipes-v2/2249)
+
+[Quantum-Safe-Bitcoin-Transactions](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/)
 
 ## Misc. / Cultural
 
