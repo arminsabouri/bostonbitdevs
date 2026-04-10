@@ -19,11 +19,15 @@ aliases = ["socratic/2026/04/10/socratic-34.html"]
 
 [Consensus Cleanup Demo of Slow Blocks on Signet](https://delvingbitcoin.org/t/consensus-cleanup-demo-of-slow-blocks-on-signet/2367/5)
 
+- [TUI visual](https://x.com/lopp/status/2042250426901266893/photo/1)
+  
 [Gossip Observer: New Project to Monitor the Lightning P2P Network](https://delvingbitcoin.org/t/gossip-observer-new-project-to-monitor-the-lightning-p2p-network/2105)
 
 [Hornet UTXO: A Custom, Constant-Time, Highly Parallel UTXO Database](https://delvingbitcoin.org/t/hornet-utxo-1-a-custom-constant-time-highly-parallel-utxo-database/2201)
 
 [BinoHash: Transaction Introspection Without Softforks](https://delvingbitcoin.org/t/binohash-transaction-introspection-without-softforks/2288/4)
+
+[Blind Relay: Stateless Encrypted WebSocket Coordination for PSBTs](https://github.com/scarlin90/bip-stateless-psbt-coordination/blob/main/bip-draft.md)
 
 ## Research
 
@@ -41,6 +45,12 @@ aliases = ["socratic/2026/04/10/socratic-34.html"]
 
 ## Misc. / Cultural
 
+[Square Bitcoin terms of service update auto-enrolls eligible sellers](https://x.com/nickslaney/status/2033956369439609211)
+
 [Iran to Accept Bitcoin for Strait of Hormuz Transit](https://bitcoinmagazine.com/news/iran-to-accept-bitcoin-for-strait)
 
 - [Mononaut Tweet](https://x.com/mononautical/status/2042035533484892268)
+
+[River Bitcoin Adoption Report 2026](https://river.com/learn/files/river-bitcoin-adoption-report-2026.pdf)
+
+[Recent OP_RETURN output statistics](https://delvingbitcoin.org/t/recent-op-return-output-statistics/2248)
