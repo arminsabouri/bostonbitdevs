@@ -41,6 +41,10 @@ aliases = ["socratic/2026/07/30/socratic-35.html"]
 
 [Bitcoin Core v31.1rc1 Release Notes](https://github.com/bitcoin/bitcoin/blob/v31.1rc1/doc/release-notes.md)
 
+[Block launches Buzz](https://buzz.xyz/)
+
+[Silent Payments merged in LibSecp256k1](https://x.com/theStack/status/2081496942501036154)
+
 ## Misc. / Cultural
 
 [Bitdevs Map](https://www.bitdevsmap.org/)
