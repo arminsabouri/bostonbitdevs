@@ -17,6 +17,8 @@ aliases = ["socratic/2026/07/30/socratic-35.html"]
 
 [CVE-2024-52911 - Script Interpreter Remote Crash](https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/)
 
+- [The fix](https://github.com/bitcoin/bitcoin/pull/31112/)
+
 [BIP-110 signaling?](https://wickedsmartbitcoin.com/bip110_signaling)
 
 [Swift sync IBD in < 1 hr?!](https://x.com/evoskuil/status/2080837246869966998)
@@ -32,6 +34,8 @@ aliases = ["socratic/2026/07/30/socratic-35.html"]
 [A faster Go (golang) secp256k1 library](https://delvingbitcoin.org/t/a-faster-go-golang-secp256k1-library)
 
 [Vibe coded Rust Bitcoin implementation](https://github.com/epochbtc/satd)
+
+[BIP: Low-R Grinding for ECDSA Signatures](https://github.com/bitcoin/bips/pull/2224)
 
 ## Releases
 
