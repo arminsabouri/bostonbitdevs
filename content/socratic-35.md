@@ -13,6 +13,14 @@ aliases = ["socratic/2026/07/30/socratic-35.html"]
 
 ## Topics
 
+[Cold Card Theft](https://x.com/pledditor/status/2082950260553298128)
+
+- [Started with this reddit comment](https://www.reddit.com/r/Bitcoin/comments/1vatgl4/full_panic_one_of_my_wallets_was_drained/)
+
+- [Kevin's Analysis](https://x.com/KLoaec/status/2082926304995762209)
+
+- [Rob's Analysis](https://x.com/Rob1Ham/status/2082896614218203616) 
+
 [Private Broadcast May Reveal Sender IP Address](https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/)
 
 [CVE-2024-52911 - Script Interpreter Remote Crash](https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/)
