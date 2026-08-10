@@ -44,3 +44,7 @@ aliases = ["socratic/2026/08/13/socratic-36.html"]
 ## Misc. / Cultural
 
 [BORG: Extendable Distributed Vector Commitments from Reconfigurable Erasure Codes](https://eprint.iacr.org/2026/1552)
+
+[Entropy Visualization](https://x.com/Bitcoin_Devs/status/2086459869620830310)
+
+
