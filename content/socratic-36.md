@@ -39,4 +39,8 @@ aliases = ["socratic/2026/08/13/socratic-36.html"]
 
 [Sparrow 2.5.0 adds silent payment receives](https://github.com/sparrowwallet/sparrow/releases/tag/2.5.0)
 
+[Ledger Bitcoin app 2.5.0. Human readable miniscript descriptors](https://x.com/salvatoshi/status/2086727660353261863)
+
 ## Misc. / Cultural
+
+[BORG: Extendable Distributed Vector Commitments from Reconfigurable Erasure Codes](https://eprint.iacr.org/2026/1552)
