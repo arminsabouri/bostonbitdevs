@@ -33,6 +33,8 @@ aliases = ["socratic/2026/08/13/socratic-36.html"]
 
 [rbitcoin: full node in Rust with a UTXO-set-free relational archive and in-process Electrum](https://github.com/reardencode/rbitcoin)
 
+[Stale tip proposal](https://github.com/pseudoramdom/bips/blob/staletip-bip-draft/bip-staletip.md)
+
 ## Releases
 
 [Lightning Labs announces Wavelength](https://lightning.engineering/posts/2026-07-21-wavelength-launch/)
