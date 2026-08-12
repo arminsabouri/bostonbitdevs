@@ -49,4 +49,6 @@ aliases = ["socratic/2026/08/13/socratic-36.html"]
 
 [Entropy Visualization](https://x.com/Bitcoin_Devs/status/2086459869620830310)
 
+[libshrincs](https://delvingbitcoin.org/t/libshrincs-a-c-implementation-with-a-machine-checked-security-proof/2795)
+
 
