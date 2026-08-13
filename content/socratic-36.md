@@ -23,6 +23,8 @@ aliases = ["socratic/2026/08/13/socratic-36.html"]
 
 [BTCPay Server critical vulnerability, update to 2.4.2](https://x.com/BtcpayServer/status/2085865561137831938)
 
+[Boltz shuts down operations](https://dailyhodl.com/2026/08/05/bitcoin-bridge-halts-all-swaps-indefinitely-after-ai-tools-outpace-security-fixes/)
+
 [Bitcoin Security Consortium](https://x.com/BTCconsortium/status/2080262540047585543)
 
 - [Launch announcement: $15M over three years, post-quantum cryptography first](https://www.strategy.com/press/leading-financial-institutions-bitcoin-companies-launch-the-bitcoin-security-consortium_07-23-2026)
@@ -43,12 +45,17 @@ aliases = ["socratic/2026/08/13/socratic-36.html"]
 
 [Ledger Bitcoin app 2.5.0. Human readable miniscript descriptors](https://x.com/salvatoshi/status/2086727660353261863)
 
+[libshrincs](https://delvingbitcoin.org/t/libshrincs-a-c-implementation-with-a-machine-checked-security-proof/2795)
+
 ## Misc. / Cultural
 
 [BORG: Extendable Distributed Vector Commitments from Reconfigurable Erasure Codes](https://eprint.iacr.org/2026/1552)
 
 [Entropy Visualization](https://x.com/Bitcoin_Devs/status/2086459869620830310)
 
-[libshrincs](https://delvingbitcoin.org/t/libshrincs-a-c-implementation-with-a-machine-checked-security-proof/2795)
+[Trezor data breach](https://x.com/Trezor/status/2087885428313543059?s=20)
+
+
+
 
 
