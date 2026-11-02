@@ -14,7 +14,10 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v3.0.0
-      - run: brew install zola
+      # shortcut: templates fail on zola 0.23+ (Tera v2), unpin after migrating them.
+      - run: |
+          curl -sSfL https://github.com/getzola/zola/releases/download/v0.21.0/zola-v0.21.0-aarch64-apple-darwin.tar.gz | tar xz -C "$RUNNER_TEMP"
+          echo "$RUNNER_TEMP" >> "$GITHUB_PATH"
       - name: Check
         run: |
           zola serve &
