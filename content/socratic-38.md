@@ -44,6 +44,8 @@ aliases = ["socratic/2026/11/05/socratic-38.html"]
 
 [Post Quantum Security for the Bitcoin Lightning Network's Off Chain Surfaces](https://www.researchgate.net/publication/414324534_PQLN_Post-Quantum_Security_for_the_Bitcoin_Lightning_Network's_Off-Chain_Surfaces)
 
+[Hash Based Signature Parameter Explorer](https://arminsabouri.github.io/Hash-based-signature-parameter-explorer)
+
 ## Misc. / Cultural
 
 [A .bitcoin top-level domain](https://x.com/wiz/status/2108002376372347249)
