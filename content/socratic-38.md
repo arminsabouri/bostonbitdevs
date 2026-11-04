@@ -36,11 +36,11 @@ aliases = ["socratic/2026/11/05/socratic-38.html"]
 
 ## Quantum
 
-[Cuts - Chained Uniform-sum Tree Signatures](https://eprint.iacr.org/2026/2455.pdf)
+[Cuts - Chained Uniform-sum Tree Signatures](https://www.projecteleven.com/blog/introducing-cuts-a-new-few-time-hash-based-signature-scheme)
 
 [SHRINCS](https://github.com/SHRINCS/shrincs-bip/blob/main/SHRINCS.md)
 
-[PRAWNS: threshold hash-based signatures](https://x.com/lclhostresearch/status/2104619822059585951)
+[PRAWNS: threshold hash-based signatures](https://x.com/lclhostresearch/status/210461982205958595://lclhost.org/blog/prawns/)
 
 [Post Quantum Security for the Bitcoin Lightning Network's Off Chain Surfaces](https://www.researchgate.net/publication/414324534_PQLN_Post-Quantum_Security_for_the_Bitcoin_Lightning_Network's_Off-Chain_Surfaces)
 
@@ -48,6 +48,9 @@ aliases = ["socratic/2026/11/05/socratic-38.html"]
 
 ## Misc. / Cultural
 
+[Bitcoin Ship](http://bitcoinship.show/)
+
 [A .bitcoin top-level domain](https://x.com/wiz/status/2108002376372347249)
 
 [Bitcoin poker](https://poker.bitvm.org/)
+
