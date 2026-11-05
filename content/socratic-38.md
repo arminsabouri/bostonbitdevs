@@ -46,6 +46,8 @@ aliases = ["socratic/2026/11/05/socratic-38.html"]
 
 [Hash Based Signature Parameter Explorer](https://arminsabouri.github.io/Hash-based-signature-parameter-explorer)
 
+[Quantum Landmines](https://groups.google.com/g/bitcoindev/c/ARMwWdWcz9A)
+
 ## Misc. / Cultural
 
 [Bitcoin Ship](http://bitcoinship.show/)
